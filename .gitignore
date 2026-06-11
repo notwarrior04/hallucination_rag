@@ -1,0 +1,23 @@
+# Cache and intermediate directories
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Large model checkpoints
+checkpoints/
+*.pt
+*.safetensors
+*.bin
+*.pkl
+
+# Data caches
+data/cache/
+
+# Local logs and environments
+*.log
+.env
+.venv/
+env/
+venv/
+.vscode/

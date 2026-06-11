@@ -1,0 +1,147 @@
+{
+  "query": "Who discovered penicillin?",
+  "answer": "I don't know",
+  "retrieved_docs": [
+    {
+      "doc_id": "squad_7de2c4516dcbd162490f0e3c8222604d",
+      "text": "Florey and Chain succeeded in purifying the first penicillin, penicillin G, in 1942, but it did not become widely available outside the Allied military before 1945. Later, Norman Heatley developed the back extraction technique for efficiently purifying penicillin in bulk. The chemical structure of penicillin was determined by Dorothy Crowfoot Hodgkin in 1945. Purified penicillin displayed potent antibacterial activity against a wide range of bacteria and had low toxicity in humans. Furthermore, its activity was not inhibited by biological constituents such as pus, unlike the synthetic sulfonamides. The discovery of such a powerful antibiotic was unprecedented, and the development of penicillin led to renewed interest in the search for antibiotic compounds with similar efficacy and safety. For their successful development of penicillin, which Fleming had accidentally discovered but could not develop himself, as a therapeutic drug, Ernst Chain and Howard Florey shared the 1945 Nobel Prize in Medicine with Fleming. Florey credited Dubos with pioneering the approach of deliberately and systematically searching for antibacterial compounds, which had led to the discovery of gramicidin and had revived Florey's research in penicillin.",
+      "score": 7.478196144104004,
+      "source": "squad_v2",
+      "base_doc_id": "squad_7de2c4516dcbd162490f0e3c8222604d",
+      "highlighted_spans": []
+    },
+    {
+      "doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
+      "text": "In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. brevis. It was one of the first commercially manufactured antibiotics universally and was very effective in treating wounds and ulcers during World War II. Gramicidin, however, could not be used systemically because of toxicity. Tyrocidine also proved too toxic for systemic usage. Research results obtained during that period were not shared between the Axis and the Allied powers during the war.",
+      "score": 1.023423433303833,
+      "source": "squad_v2",
+      "base_doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
+      "highlighted_spans": []
+    },
+    {
+      "doc_id": "squad_dbe39459228443214bd8a0173c497c3b",
+      "text": "With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include the penicillins (produced by fungi in the genus Penicillium), the cephalosporins, and the carbapenems. Compounds that are still isolated from living organisms are the aminoglycosides, whereas other antibacterials\u2014for example, the sulfonamides, the quinolones, and the oxazolidinones\u2014are produced solely by chemical synthesis. Many antibacterial compounds are relatively small molecules with a molecular weight of less than 2000 atomic mass units.[citation needed]",
+      "score": -1.756178855895996,
+      "source": "squad_v2",
+      "base_doc_id": "squad_dbe39459228443214bd8a0173c497c3b",
+      "highlighted_spans": []
+    },
+    {
+      "doc_id": "squad_58032a5acb42e4c5e2b811dd5d620330",
+      "text": "Ehrlich\u2019s approach of systematically varying the chemical structure of synthetic compounds and measuring the effects of these changes on biological activity was pursued broadly by industrial scientists, including Bayer scientists Josef Klarer, Fritz Mietzsch, and Gerhard Domagk. This work, also based in the testing of compounds available from the German dye industry, led to the development of Prontosil, the first representative of the sulfonamide class of antibiotics. Compared to arsphenamine, the sulfonamides had a broader spectrum of activity and were far less toxic, rendering them useful for infections caused by pathogens such as streptococci. In 1939, Domagk received the Nobel Prize in Medicine for this discovery. Nonetheless, the dramatic decrease in deaths from infectious diseases that occurred prior to World War II was primarily the result of improved public health measures such as clean water and less crowded housing, and the impact of anti-infective drugs and vaccines was significant mainly after World War II.",
+      "score": -3.555741310119629,
+      "source": "squad_v2",
+      "base_doc_id": "squad_58032a5acb42e4c5e2b811dd5d620330",
+      "highlighted_spans": []
+    },
+    {
+      "doc_id": "squad_7a2ea268b7c5f898e620b0abaf726363",
+      "text": "The bacillus causing tuberculosis, M. tuberculosis, was identified and described on 24 March 1882 by Robert Koch. He received the Nobel Prize in physiology or medicine in 1905 for this discovery. Koch did not believe the bovine (cattle) and human tuberculosis diseases were similar, which delayed the recognition of infected milk as a source of infection. Later, the risk of transmission from this source was dramatically reduced by the invention of the pasteurization process. Koch announced a glycerine extract of the tubercle bacilli as a \"remedy\" for tuberculosis in 1890, calling it \"tuberculin\". While it was not effective, it was later successfully adapted as a screening test for the presence of pre-symptomatic tuberculosis. The World Tuberculosis Day was established on 24 March for this reason.",
+      "score": -4.403292655944824,
+      "source": "squad_v2",
+      "base_doc_id": "squad_7a2ea268b7c5f898e620b0abaf726363",
+      "highlighted_spans": []
+    }
+  ],
+  "retrieved_doc_ids": [
+    "squad_7de2c4516dcbd162490f0e3c8222604d",
+    "squad_9d235fdf7d5ec60985861806d0c8f467",
+    "squad_dbe39459228443214bd8a0173c497c3b",
+    "squad_58032a5acb42e4c5e2b811dd5d620330",
+    "squad_7a2ea268b7c5f898e620b0abaf726363"
+  ],
+  "retrieval_scores": [
+    7.478196144104004,
+    1.023423433303833,
+    -1.756178855895996,
+    -3.555741310119629,
+    -4.403292655944824
+  ],
+  "evidence_spans": [
+    {
+      "text": "For their successful development of penicillin, which Fleming had accidentally discovered but could not develop himself, as a therapeutic drug, Ernst Chain and Howard Florey shared the 1945 Nobel Prize in Medicine with Fleming. Florey credited Dubos with pioneering the approach of deliberately and systematically searching for antibacterial compounds, which had led to the discovery of gramicidin and had revived Florey's research in penicillin.",
+      "sentence_start": 6,
+      "sentence_end": 7,
+      "score": 8.321927070617676,
+      "doc_id": "squad_7de2c4516dcbd162490f0e3c8222604d",
+      "source": "squad_v2"
+    },
+    {
+      "text": "In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B.",
+      "sentence_start": 0,
+      "sentence_end": 0,
+      "score": 5.5689799070358275,
+      "doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
+      "source": "squad_v2"
+    },
+    {
+      "text": "In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. It was one of the first commercially manufactured antibiotics universally and was very effective in treating wounds and ulcers during World War II.",
+      "sentence_start": 0,
+      "sentence_end": 1,
+      "score": 5.314091229438781,
+      "doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
+      "source": "squad_v2"
+    },
+    {
+      "text": "These include, for example, the beta-lactam antibiotics, which include the penicillins (produced by fungi in the genus Penicillium), the cephalosporins, and the carbapenems.",
+      "sentence_start": 1,
+      "sentence_end": 1,
+      "score": 2.626188802719116,
+      "doc_id": "squad_dbe39459228443214bd8a0173c497c3b",
+      "source": "squad_v2"
+    },
+    {
+      "text": "In 1939, Domagk received the Nobel Prize in Medicine for this discovery.",
+      "sentence_start": 3,
+      "sentence_end": 3,
+      "score": 2.18378791809082,
+      "doc_id": "squad_58032a5acb42e4c5e2b811dd5d620330",
+      "source": "squad_v2"
+    }
+  ],
+  "contradiction_score": 0.0,
+  "hallucination_probability": 0.0039,
+  "hallucination_label": "FACTUAL",
+  "verification_score": 0.0,
+  "vcs_score": 0.6763,
+  "calibrated_vcs": 0.6069,
+  "hallucination_risk": "MEDIUM",
+  "verification_label": "NEI",
+  "confidence_explanation": {
+    "retrieval_quality": 0.7805,
+    "evidence_support": 0.9285,
+    "verification_score": 0.0,
+    "hallucination_probability": 0.0039,
+    "vcs": 0.6763,
+    "calibrated_vcs": 0.6069,
+    "reason": "Moderate confidence: Some evidence coverage but potential gaps or minor contradictions.",
+    "hand_crafted_weights": {
+      "retrieval": 0.25,
+      "evidence": 0.25,
+      "verification": 0.25,
+      "hallucination": 0.25
+    }
+  },
+  "model_versions": {
+    "evidence": "./checkpoints/evidence_highlighter",
+    "verifier": "./checkpoints/contradiction_verifier",
+    "hallucination": "checkpoints\\confidence_scorer"
+  },
+  "dataset_name": "custom",
+  "recall_at_k": null,
+  "mrr": null,
+  "hit_rate": null,
+  "answer_rank_score": null,
+  "component_scores": {
+    "retrieval": 0.7805427312850952,
+    "evidence": 0.9284659676643463,
+    "verification": 0.0,
+    "hallucination": 0.9961006627087773
+  },
+  "retrieval_metrics": {
+    "retrieval_quality": -0.2427,
+    "best_rank": -1,
+    "top_doc_score": 7.4782,
+    "mean_top5_score": -0.2427
+  }
+}

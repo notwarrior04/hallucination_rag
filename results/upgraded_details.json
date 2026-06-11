@@ -1,0 +1,4002 @@
+[
+  {
+    "query": "Why did the European nations and Japan separated themselves from United States during the crisis?",
+    "gold_doc_id": "squad_43872b32f841e70d47c14b17b62396de",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do tribes use Google Earth and GPS for?",
+    "gold_doc_id": "squad_45d037e34e32cb70a763bc1021c744c8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How are the total numbers of seats allocated to parties?",
+    "gold_doc_id": "squad_0545fc5506de34016ea8a057a8db2d97",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what years did Spain and Portugal join the European Union?",
+    "gold_doc_id": "squad_935b2f57659d1d82bf498bdfa52ec29a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where are the streams the Rhine captured?",
+    "gold_doc_id": "squad_82b5c8585b129832c04e6c270da7e3e0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what century did the history of the steam engine begin?",
+    "gold_doc_id": "squad_88817ce64dc52c7a600e6655dd66a408",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Jamboree Business Parks belongs to which business center?",
+    "gold_doc_id": "squad_862735a98836a8cb5ddf1f0a8fcbb3d1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What term best describes southern California's collection of landscapes?",
+    "gold_doc_id": "squad_c3ae94f8c3bd39a43ba6f5cf873a085f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The reasons for the las two counties to be added are based on what?",
+    "gold_doc_id": "squad_c83924909ea767b1ae3ec6d66770c4b4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the first French language bible appear?",
+    "gold_doc_id": "squad_2ccde9165118d3a7a68d4b732db70358",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What field involves the study of the immune system?",
+    "gold_doc_id": "squad_266493109a6053e12c3b4992d52b809d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what process is the uptake from oxygen necessary?",
+    "gold_doc_id": "squad_7019aab7c0de9c2107f939e8861b2d92",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What inventor built on to the findings of Philo of  Byzantium?",
+    "gold_doc_id": "squad_29cb10a1e9f3585b61dc4d2317748b42",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did creating highways in the Amazon rainforest lead to?",
+    "gold_doc_id": "squad_0b94384f4f7cf8a8e5b15a7752281dce",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "At what size and larger can drugs elicit a neutralizing immune response?",
+    "gold_doc_id": "squad_9cb37ded9ceec018ba9462fd2943f4f3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Sleep hormones shift the cytokine balance to which cytokine?",
+    "gold_doc_id": "squad_07b3cf9b52fa4da5475e5e6c90288435",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What component of water is more soluble than nitrogen?",
+    "gold_doc_id": "squad_ec62a45e7516a19a0ae539025f812b7f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What school was Walter Camp a captain for the football team?",
+    "gold_doc_id": "squad_d823cecbe09c82e1450a5afd63fbc4a3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many tons of dust remains in the air?",
+    "gold_doc_id": "squad_9ed11bb9d119b5a7803a7401ece2e344",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where are issues like abortion and drug policy legislated on?",
+    "gold_doc_id": "squad_4adffe0237793d114f5dd0e20097ae4e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What delivery message was used ",
+    "gold_doc_id": "squad_52c683ed3083798d342b852e51af6a21",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who can question statements the First Minister or members of the cabinet make?",
+    "gold_doc_id": "squad_fd45414a2a082cdb5279374f3f1ff45d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the most critical resource in the analysis of computational problems associated with non-deterministic Turing machines?",
+    "gold_doc_id": "squad_8e2253b78f7c8ce1bad97a64f4a189d8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What percentage of German students attended private schools in 2008?",
+    "gold_doc_id": "squad_f4ae6c55686d59eb1f18335679d7c006",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was the Last Glacial Maximum?",
+    "gold_doc_id": "squad_ca01a5a943c0284bd4811740707ee1fb",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What is the name of the movement that seeks renewed use of steam power in the modern era?",
+    "gold_doc_id": "squad_d96360d87535b5e4b6c17d97b8a1940e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which century was there a program to straighten the Rhine? ",
+    "gold_doc_id": "squad_0596c8082e64d68de706d0a35a3cc186",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was Thoreau's punishment for not paying his taxes?",
+    "gold_doc_id": "squad_81de2a6ab1067b024306239fbf0aa000",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Families with French names in South Africa speak what language today?",
+    "gold_doc_id": "squad_6d38fe3e376405ebe32114123cba5fe4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who was the leader who established the colony at Florida?",
+    "gold_doc_id": "squad_629a99c8078898ec40bdfb58b40a0cac",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which articles state that the member states' rights to deliver public services may not be obstructed?",
+    "gold_doc_id": "squad_d50e525d69ad0225109f9d3f9c131dd9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the Island off of the German shore of the Rhine that this warm and cold water meet?",
+    "gold_doc_id": "squad_f5864a308d74b3d0efb9c5bc7a76054e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the Latin name for Black Death?",
+    "gold_doc_id": "squad_73eb8a3f6eb03690cffa9b706a1684af",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which country was thinking about going to war to forcibly take Middle Eastern oil fields?",
+    "gold_doc_id": "squad_de17d62bffe787c35371f04e93818117",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What dynasties inspired the Chinese-like elements of Kublai's government?",
+    "gold_doc_id": "squad_756ebcedd61cb42a5a016be445a43873",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who gained control of Florida after the conclusion of the Revolutionary War?",
+    "gold_doc_id": "squad_72950100ebce080c442d1b9622ff97d5",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Full size working engines on what vehicles sometimes use oscillating cylinder steam engines?",
+    "gold_doc_id": "squad_86ad828e59c59627293e20a0885145a9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What kind of climate does southern California maintain?",
+    "gold_doc_id": "squad_32edc30ffc43b7ecddcba1f46bf6addc",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What part of France were the Normans located?",
+    "gold_doc_id": "squad_ea5f12ac0f2867efb9b6db7de438090e",
+    "rank": 7,
+    "recall@5": 0,
+    "mrr": 0.1429,
+    "success@100": 1
+  },
+  {
+    "query": "In what year did Savery patent his steam pump?",
+    "gold_doc_id": "squad_2ff24f027a2bd404cc6fd445ed4c2135",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Rocks that are a depth where they are ductilely stretched are also often what?",
+    "gold_doc_id": "squad_ff68982c7912ab0ea20c627c9f2d276b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was the goal of this Roman disobedience?",
+    "gold_doc_id": "squad_38c8ca0a72d5725adf7224c0f9e96924",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did Landau propose his four conjectural problems?",
+    "gold_doc_id": "squad_f14e7b1e3cfd85ea533e16acdba3b203",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What form of poetry was developed in the Yuan?",
+    "gold_doc_id": "squad_351df8a314acc417de18dfd2572026d9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What gas does the airline exothermic reaction produce?",
+    "gold_doc_id": "squad_7b177e71b4f182d94996ca872d71297e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How much did the gross agricultural product increase from 2003-04?",
+    "gold_doc_id": "squad_c7e4628fc9042857518fa7238ff939af",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do Cydippids use to capture their prey?",
+    "gold_doc_id": "squad_afbe4535d9cb79c8cdfa29b8ebd39f07",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "Cells of the site of an infection in a plant undergo what process to prevent spread of the disease?",
+    "gold_doc_id": "squad_4abd24538c8110235dd254437f2bbded",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the world's population finally recover from the black death?",
+    "gold_doc_id": "squad_adb14f9d2b4b4a4004e293a82cf20f1c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "On what date did the first railway trip in the world occur?",
+    "gold_doc_id": "squad_fa0ceb3d4b4035792597dd71f552d6a6",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was the heatwave in which Hopetoun recorded its highest temperature?",
+    "gold_doc_id": "squad_c26952c8f4d4416d97b52cd5c5a8db04",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was the first known historical reference to immunity?",
+    "gold_doc_id": "squad_37a0d4acfb51c6379c417aa1f7b8b658",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What method was used to clear forest for crop cultivation in the amazon forest?",
+    "gold_doc_id": "squad_0157c07345ae6c9e3ff6ee26dbccba31",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Turing machines are commonly employed to define what? ",
+    "gold_doc_id": "squad_e0a0d9f09737a1c37e2f8722e92e4cae",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do those in the field do to ensure a positive outcome?",
+    "gold_doc_id": "squad_b153ebf77a5c078f5904c96f4510fc20",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": " What entity has taken the view that the goals of free trade are underpinned by the aims to improve people's well being?",
+    "gold_doc_id": "squad_b1da56f09d920f574c10983673ae7b9c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the name of the TV scrambling system BSkyB uses?",
+    "gold_doc_id": "squad_c1c661055ae818c463870f72bae87a29",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How did trying to establish a devolved Scottish Assembly go in 1979?",
+    "gold_doc_id": "squad_bb89e5279d473638bcb8dc4900ea502b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Whose needs will the growth in pharmacy informatics meet?",
+    "gold_doc_id": "squad_1751e2971361590957997a7174173a07",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What will concentrated oxygen greatly speed up?",
+    "gold_doc_id": "squad_29e8975ef9721e79f2f6dc9b26500312",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Of what did da Vinci think a part  was consumed during combustion?",
+    "gold_doc_id": "squad_29cb10a1e9f3585b61dc4d2317748b42",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What month, every four years, are the ordinary general elections held on?",
+    "gold_doc_id": "squad_f40066b72f35585d0e53a19a231cdf4f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does Colonia Agrippina's original name translate into?",
+    "gold_doc_id": "squad_f276384201abfdd868c0734cee4db990",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In the capabilities approach, grow and income are considered a means to an end rather than what?",
+    "gold_doc_id": "squad_8e4fd05098e710827e1f51ee70b3c00f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where is the famous rock the Rhine flows around?",
+    "gold_doc_id": "squad_f4b2512fd0106ec4f9f6f2bb3fd1ea09",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the lake known as which was created by the rise of the Andes Mountains?",
+    "gold_doc_id": "squad_3e1717a0c9154e30be81e952cbd2899c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was Tugh Temur known for?",
+    "gold_doc_id": "squad_d8bff191316d8c780176dbec9d33ecc4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the delta in the Rhine delimited in the west by?",
+    "gold_doc_id": "squad_21c503652e34b12275037edd76cca865",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did Herve serve as a Byzantine general?",
+    "gold_doc_id": "squad_70bd6fb50f3c6c454a7c2e9f278a0c10",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where is the airport located?",
+    "gold_doc_id": "squad_7f2bb17c0a79e84dff568bb899f61842",
+    "rank": 7,
+    "recall@5": 0,
+    "mrr": 0.1429,
+    "success@100": 1
+  },
+  {
+    "query": "What two things does pharmacy informatics bring together?",
+    "gold_doc_id": "squad_1751e2971361590957997a7174173a07",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do the services given by pharmacists provide?",
+    "gold_doc_id": "squad_6c093fec031ed6d16559bd598753a15c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What country did the Rhine continue to rise during the holocene?",
+    "gold_doc_id": "squad_39b33a7b7ea8b1e46bf13a4c72387391",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What extinction event might have created some conditions allowing the expansion of the amazon rainforest?",
+    "gold_doc_id": "squad_a45eb205456e69f7cc3afd907e4e114a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did Japan release a statement to tell Israelis to withdraw from the Palestine?",
+    "gold_doc_id": "squad_b0909956a6744bb902301f0de98eac62",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Levels of what things are used to determine emission factors?",
+    "gold_doc_id": "squad_f8973f62ff6422fed1d5198fa0077bda",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is another piece created by Olivier Messiaen?",
+    "gold_doc_id": "squad_1c579bced7e07019bfcc10202b16b205",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What shape are some of the buildings in the Parliament complex?",
+    "gold_doc_id": "squad_6bc44b640bbe1169562f61ec5411c6b1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who did the Han Chinese want to help the Mongols fight?",
+    "gold_doc_id": "squad_a144f127f3422f355e23465b39b8e0a2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Granite is made up largely of what chemical compound?",
+    "gold_doc_id": "squad_902bf327680063db6262d2adbffd3cc1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which courts have a duty to interpret domestic law as far as possible?",
+    "gold_doc_id": "squad_1a07b15bea64554d67bafa9491a93890",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "If P is ultimately proven to be equal tot NP, what effect would this have on the efficiency of problems?",
+    "gold_doc_id": "squad_0f796012935a29ea46503bc01d5b2157",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why is the second timeline needed? ",
+    "gold_doc_id": "squad_bc626c9f1b3fced71545b2e1f505ec10",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does the Scotland Act of 2012 extend?",
+    "gold_doc_id": "squad_7bbc8378af59141d340bcc5d2ee75b8f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was the Harvard endowment total in 2011?",
+    "gold_doc_id": "squad_3efbb629f5a3a6c0720c574ec298b651",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which type of law concerns the EU's governance structure?",
+    "gold_doc_id": "squad_48aee7f3bcd67575528ba4affe98c0f3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What can construction projects suffer from?",
+    "gold_doc_id": "squad_d11c5cd31c215a7d34e8f802e228e39c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What feature will enrich the the pedestrian friendly environment after restoration?",
+    "gold_doc_id": "squad_7f63c48062dcfa20d4e7f20ff5d049d3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where was Parliament temporarily relocated to in May of 2000?",
+    "gold_doc_id": "squad_c609d96c40a665c9675a1fa14e714d2a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why did Berlin Huguenots switch to German from French in their services?",
+    "gold_doc_id": "squad_32c2f2d607c2deed6079c92275442a21",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What part the composition of the Earth's atmosphere is comprised of oxygen?",
+    "gold_doc_id": "squad_c466180c2245d01421540a0c97714b61",
+    "rank": 4,
+    "recall@5": 1,
+    "mrr": 0.25,
+    "success@100": 1
+  },
+  {
+    "query": "What war in Ireland featured Huguenot regiments?",
+    "gold_doc_id": "squad_e1ec4a625069edd68eb3989cfcfb0f45",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is usually the goal of taking a plea bargain?",
+    "gold_doc_id": "squad_be772fb9ee4b69402182e0eaebd9a3a7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the British defeat New France?",
+    "gold_doc_id": "squad_77e4b2edf0bec4b8b83c6bb6772cb18c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What parts of a conventional reciprocating steam engine could be replaced by a pistonless rotary engine?",
+    "gold_doc_id": "squad_6de6ce5f84db8e02a36cb31248c5ee9e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of surveys show the location of stratigraphic units in the subsurface?",
+    "gold_doc_id": "squad_3a9f8ef9eb445ec7cd557fb722510336",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What side effect of these type of protests is unfortunate?",
+    "gold_doc_id": "squad_2780a4ce689b2fb47666c90eeada25eb",
+    "rank": 22,
+    "recall@5": 0,
+    "mrr": 0.0455,
+    "success@100": 1
+  },
+  {
+    "query": "The frequent availability of what substance allowed land-based steam engines to exhaust a great deal of steam?",
+    "gold_doc_id": "squad_c31998c231501492f1561b5a097afb5e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What runs from the balancer in the statocyst to the comb rows?",
+    "gold_doc_id": "squad_640199860854b4618908d6d126f64c2d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what year did Fresno become an incorporated city?",
+    "gold_doc_id": "squad_c35a603ebad8829c64ad048ce6ac5fc9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does isobaric mean?",
+    "gold_doc_id": "squad_a16e5c199e7c3ca1abd67dfa3971db18",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What toxin induces apoptosis in the target cell?",
+    "gold_doc_id": "squad_45858c1ee0fab482e69b9ae1f9422e32",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Along with the Anglican Church and Uniting Church, what religious denomination operates private schools in Australia?",
+    "gold_doc_id": "squad_5e212cfe7ee8b84f50bae2ffb94043f5",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "How many people in Quzhou are descended from Confucius?",
+    "gold_doc_id": "squad_17a45c8b65a36b032e3a82d89def1937",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the shortened name of the annual yacht race that takes place?",
+    "gold_doc_id": "squad_708ffb3c26aa28d0e8b79b451c10072d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The west side of Fresno is the center of which ethnic community?",
+    "gold_doc_id": "squad_a0b4b69ef48915dfd2910345b2832ee5",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who does BSkyB have an operating license from?",
+    "gold_doc_id": "squad_6a7cf2fab8a25b1cae0b19ab25968e8e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where did Singer hold a press conference in May 2000?",
+    "gold_doc_id": "squad_5a3e93a77106b4cf1341c700b4b1d080",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who was the first president of the University of Chicago?",
+    "gold_doc_id": "squad_b5e7b09eff7aabceccd8ef63c4f85beb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who may change the date by up to a month, on the proposal of the PO?",
+    "gold_doc_id": "squad_f40066b72f35585d0e53a19a231cdf4f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does the Rhine merge with outside of Germany?",
+    "gold_doc_id": "squad_a03e2b21c0eebbf61bfdb7dfd1d82714",
+    "rank": 20,
+    "recall@5": 0,
+    "mrr": 0.05,
+    "success@100": 1
+  },
+  {
+    "query": "Despite being traditionall described as \"eight counties\", how many counties does this region actually have?",
+    "gold_doc_id": "squad_c83924909ea767b1ae3ec6d66770c4b4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What use was suggested for the system ",
+    "gold_doc_id": "squad_0a9f1692185564b70672fe0698d1957e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of gradients are formed by faulting and other deformational processes?",
+    "gold_doc_id": "squad_547a01d849c8bb47c2ff4d5218db1b10",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What should the punishment rely on instead in a just society?",
+    "gold_doc_id": "squad_28edc5b89cc1a59cc3719076cd106f3b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Oxygen is released in cellular respiration by?",
+    "gold_doc_id": "squad_ab8f0231895dd95d7e082cd075c00e72",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Along with trusts, what other non-profits are allowed to run schools in India?",
+    "gold_doc_id": "squad_cabaa6b57d085bd32de1d4a4f496a2c5",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In modern times, firms may offer themselves as what for a construction project?",
+    "gold_doc_id": "squad_b2a059e22522c7f8968ebf56c88ee0ea",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "To force Japan to be more involved in the crisis, what did Saudi and Kuwaiti government do?",
+    "gold_doc_id": "squad_b0909956a6744bb902301f0de98eac62",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the nature of the relationship between T-cells and vitamin D?",
+    "gold_doc_id": "squad_69a1fb0dd58f0229df0b2f01856423b9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What had the Yuan used to print its money before bronze plates?",
+    "gold_doc_id": "squad_114cb684850f762213138c81eb49f5c9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What made the student decide to occupy the president's office in protest?",
+    "gold_doc_id": "squad_f4411bd9516c9730258bd9a433c07827",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which article made provisions for concentrations or mergers and the abuse of a dominant position by companies?",
+    "gold_doc_id": "squad_f097daf8ab98420c1b89958b3294d832",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who commissioned the Tapestry?",
+    "gold_doc_id": "squad_72d41c67cfbba73e0fd851d16fd77a44",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In which months does Fresno experience increased wind coming from the southeastern direction?",
+    "gold_doc_id": "squad_c23518ad4bada86d432a7a98da7affcf",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of medicine did otachi focus on?",
+    "gold_doc_id": "squad_e36fcb283d84710c502ff4f23c419744",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what state is oxygen shipped in bulk?",
+    "gold_doc_id": "squad_2659b8cd18cf9faf204ae688cc76a2e6",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "From what French King did the Huguenot name possibly descend?",
+    "gold_doc_id": "squad_cdc8921c56d4911a4a067ab56aabcc27",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What proclamation gave Huguenots special privileges in Brandenburg?",
+    "gold_doc_id": "squad_3014d8e8dafac73e862f6f73939684f7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How much does the Rhine discharge at the Dutch border?",
+    "gold_doc_id": "squad_e88e550806f42049d6f3758ef3a7a411",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What declaration predicated the emigration of Huguenot refugees?",
+    "gold_doc_id": "squad_3ec02f6fec4d3a6be4c34e70f65c4f94",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "In what sort of places are dry cooling towers used?",
+    "gold_doc_id": "squad_24d9c39dbe9b6cd94922788bccd89b84",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are the most active parts of ctenophora?",
+    "gold_doc_id": "squad_0e55493e3f87e5c4fe8af19c5dd21e60",
+    "rank": 7,
+    "recall@5": 0,
+    "mrr": 0.1429,
+    "success@100": 1
+  },
+  {
+    "query": "In what year was the battle that resulted from a Confederate cavalry unit attacking a Union expedition?",
+    "gold_doc_id": "squad_31a9c50de22736f00ec002e070925220",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What engines were used throughout most of the 20th century to propel ships?",
+    "gold_doc_id": "squad_531bf3771de73b1202fc0baee710a834",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are the main legislative bodies of the European Union?",
+    "gold_doc_id": "squad_c1bef51101eb8c5654f8770eaf071d37",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What was telenet ",
+    "gold_doc_id": "squad_f682fab2456aa4751c9bbb6440a07814",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Salafism posits that democracy is responsible for what type of horrible events of the 20th century?",
+    "gold_doc_id": "squad_7d58d6785f7be790336ad59f4844b4f3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did the use of steam engines in farming lead to?",
+    "gold_doc_id": "squad_c551c4271067b021e5018984279e4a77",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who made up 19% of the student body in the 2012 Spring Quarter? ",
+    "gold_doc_id": "squad_2fa45a37f684e6ea7cf751cc88d79bac",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which park is home to the Fresno Chafffee Zoo?",
+    "gold_doc_id": "squad_c82100776072af79638097b469ddbdbb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many people work for Kunskapsskolan schools?",
+    "gold_doc_id": "squad_b94eadd24441e22bff92456bc7dee1a1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the minimum distance between a patient's home and the nearest pharmacy that allows a physician to give out medication?",
+    "gold_doc_id": "squad_d62b07a85423f5d3bc5c8d1993c89a2c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The practice of occupying and looting Huguenot homes was called?",
+    "gold_doc_id": "squad_a2a5193f4e9d381e2f6958ec525a755f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Issues dealt with at Westminster are not ones who is able to deal with?",
+    "gold_doc_id": "squad_4adffe0237793d114f5dd0e20097ae4e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "About how many Walloons and Huguenots emigrated to England and Ireland in this era?",
+    "gold_doc_id": "squad_3e5841951266150530c77462d12f4bf0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When extensive time is required to sort integers, this represents what case complexity?",
+    "gold_doc_id": "squad_b2ee4a076ef96bf9b1fe43927b00c2ac",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What conjecture holds that there are always a minimum of 4 primes  between the squares of consecutive primes greater than 2?",
+    "gold_doc_id": "squad_416f2646a5a77e731d0847ed2739ff76",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why did OPEC block oil deliveries to the United States?",
+    "gold_doc_id": "squad_bb75064fa5d2bb8f41a78665aa587d17",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What kind of territories are being destroyed by ecocide in the Amazon?",
+    "gold_doc_id": "squad_67eb3add52af8029af2883db5664ef29",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where do thrust faults form?",
+    "gold_doc_id": "squad_2fbf5a5a3d5191b2040c53ca4a325096",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which ctenophora have been studies the most?",
+    "gold_doc_id": "squad_d14cf42574dc88ab1c39672b8734bbbf",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "How much revenue is private?",
+    "gold_doc_id": "squad_4c6c0446863fcf9e605bc87be138c77f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why did the Shah of Iran gave an interview?",
+    "gold_doc_id": "squad_80f933cf50bde3f641fbaf385c0d980c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Cities that anchor the regions are often the hub for what kind of activity?",
+    "gold_doc_id": "squad_6824cf4b7285114e5ae58222782b9d3d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what year did Newcomen's engine pump in a mine?",
+    "gold_doc_id": "squad_2ff24f027a2bd404cc6fd445ed4c2135",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What medical treatment is used to increase oxygen uptake in a patient?",
+    "gold_doc_id": "squad_7019aab7c0de9c2107f939e8861b2d92",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did DECnet originally do ",
+    "gold_doc_id": "squad_0cdc5213b98411816e25640bd2c71961",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Under what treaty can the European Commission take action against member states?",
+    "gold_doc_id": "squad_53f62b1502499ca91b206ad3087331a0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is one method of achieving aspirational consumption?",
+    "gold_doc_id": "squad_c9e7f391131c0aeab74237916d3d0903",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what decade was seafloor spreading discovered? ",
+    "gold_doc_id": "squad_6d1b6185d247209c39c3773391dca52a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was there an attempt to reform the law of the EU?",
+    "gold_doc_id": "squad_6cef4d0bc80c68285779f281ad8e17d2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What two women were defying the pharaoh in the story from the book of Exodus? ",
+    "gold_doc_id": "squad_9098c028674bc825ab1576d9c80f4495",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many large public parks does Fresno have?",
+    "gold_doc_id": "squad_c82100776072af79638097b469ddbdbb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is distribution of income from labor due to the differences of?",
+    "gold_doc_id": "squad_0d930761eafdd5b708fbf50d2a3b5a97",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what century did Mayow and Boyle perform their experiments?",
+    "gold_doc_id": "squad_6f0ed1570f647fbb58aaf0c28f366498",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What part do events in Victoria's economy  play? ",
+    "gold_doc_id": "squad_9983fa8b071753f6962b03c4baaf4738",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What evidence between and among complexity classes would signify a theoretical watershed for complexity theory?",
+    "gold_doc_id": "squad_4ced47e8b770e63174d7caf8c0cdaa14",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the name of the museum and research center for Near Eastern studies, that is owned by the university?",
+    "gold_doc_id": "squad_3ccba6e0139da6b5d44c9db19441cea4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What other business district does Orange County envelop outside of Downtown Santa Ana and Newport Center?",
+    "gold_doc_id": "squad_862735a98836a8cb5ddf1f0a8fcbb3d1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What prompted Shen Kuo to believe the land was formed by erosion of the mountains?",
+    "gold_doc_id": "squad_99ea459dc901348e619340956762c7e7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are two examples of cytotoxic or immunosuppressive drugs?",
+    "gold_doc_id": "squad_a716ca5abcd2fc415b65f3f08dd3d03f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many dairy cows are there in Australia?",
+    "gold_doc_id": "squad_def97036224848132854df0bc8f01f3f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Name the other way that the Plowshares organization temporarily closed?",
+    "gold_doc_id": "squad_2780a4ce689b2fb47666c90eeada25eb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The design team is most commonly employed by who?",
+    "gold_doc_id": "squad_c24979eefa86ac43ccdf6613322c93fb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The term may be related to what politician from Switzerland?",
+    "gold_doc_id": "squad_67e09cbeb8b27be4ac3a105a60569f8f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where is the so-called Rhine Knee?",
+    "gold_doc_id": "squad_746aa8287dd0a1e4b9d86e3f3d2eb9d2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What conviction motivated Eliot to move towards secularization?",
+    "gold_doc_id": "squad_352a3a2e5dbd7e4f0573d0905abbdbe2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what year did Jer\u00f3nimo de Ayanz y Beaumont receive a steam engine patent?",
+    "gold_doc_id": "squad_2ff24f027a2bd404cc6fd445ed4c2135",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What kinds of growth did Kublai encourage?",
+    "gold_doc_id": "squad_b59650ea8320f46a738610b9ad897b80",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is Jacksonville's hottest recorded temperature?",
+    "gold_doc_id": "squad_a42fb97d1ff74a8a9055a3f32f57147e",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "Who can be in the Victorian cabinet?",
+    "gold_doc_id": "squad_b72ed0285749fa5d6146ac00b5751fb9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does Article 102 of the Treaty of Lisbon prohibit?",
+    "gold_doc_id": "squad_d50e525d69ad0225109f9d3f9c131dd9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did the early entrant program do for potential students?",
+    "gold_doc_id": "squad_8f908d72c0dd75351d29c0faf0dd51d7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of cascade results when complement proteins bind to microbes and activate their protease activity?",
+    "gold_doc_id": "squad_edd8753da26afae8d196c05f53790a2d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who formulated the idea of clonal selection theory of immunity?",
+    "gold_doc_id": "squad_3bd35047335ae9beb40738c8df1a4e46",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "WHat allows customers to get Sky+ functions if they do not subscribe to BSkyB's channels?",
+    "gold_doc_id": "squad_50e8eb08c8dd8ba07fcfa4d91abf85f4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was the IPCC Third Assessment Report published?",
+    "gold_doc_id": "squad_150823b72def6196f7f164ff52edcc95",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is considered as a potential advantage for wealth for some Americans?",
+    "gold_doc_id": "squad_47328a75517a5982e21c74b5dddf3506",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What have the Treaties sought to enable since its foundation?",
+    "gold_doc_id": "squad_a440639e321ecca562c7a6d6f7896f73",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who were two of Kublai's Chinese advisers?",
+    "gold_doc_id": "squad_756ebcedd61cb42a5a016be445a43873",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What test is especially useful for numbers of the form 2p - 1?",
+    "gold_doc_id": "squad_555741f2a50fafaaf72b0b54860472dd",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who appoints the board of the European Central Bank?",
+    "gold_doc_id": "squad_994b39530e86a26ac64e23f7f3249627",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "There is a public database of epitopes for pathogens known to be recognizable by what cells?",
+    "gold_doc_id": "squad_9cb37ded9ceec018ba9462fd2943f4f3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was the period called that was 505 million years ago?",
+    "gold_doc_id": "squad_959ecc7688bc7c1a2286f5f6e45c6de3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Around roughly how many students enroll yearly in creative and performing arts classes?",
+    "gold_doc_id": "squad_7977949597cc9375b4991802ff9c9203",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Although southern california consts of a heavily developed urban environment, how much of it has been left undeveloped?",
+    "gold_doc_id": "squad_e827dfeab52ef5d09320f31c47661121",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who is responsible for operating the electronic voting equipment and chamber clocks?",
+    "gold_doc_id": "squad_b06ebadbc5da4ae8fdb6b9e52c7d0797",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who governed the Central Region in the Yuan?",
+    "gold_doc_id": "squad_f4243fc637948a9eb70c362bb761a775",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Each of the extended metropolitan areas has a population that exceeds what number?",
+    "gold_doc_id": "squad_0c23a110035acefcb31f2d714861254b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why were the Uighurs ranked higher by the Mongols?",
+    "gold_doc_id": "squad_af292418203ffd67eaa1f168300e03c7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What often affects or facilitates ease of analysis in computational problems?",
+    "gold_doc_id": "squad_8e2253b78f7c8ce1bad97a64f4a189d8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What condition what must be satisfied in order for 1/p to be expressed in base q instead of base 10 and still have a period of p - 1?",
+    "gold_doc_id": "squad_c88df4c45d9d699a1e458984295e3d93",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "For what railroad did Stephenson build a locomotive in 1825?",
+    "gold_doc_id": "squad_9001fd127f6f88cbcc76bcedbb93299f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?",
+    "gold_doc_id": "squad_573e0eb99650ccc272e75cbbb78e290d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What UN secretary went to Harvard?",
+    "gold_doc_id": "squad_59c72ef37e50e6d2ccc6cfc8401ce915",
+    "rank": 26,
+    "recall@5": 0,
+    "mrr": 0.0385,
+    "success@100": 1
+  },
+  {
+    "query": "In what country is Normandy located?",
+    "gold_doc_id": "squad_4792c0101c483fd5cb5191f0d39d4426",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "Who presents different ideas about how to accomplish goals?",
+    "gold_doc_id": "squad_4525af1d66cb8b8cd0afce52e2336e29",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the exchange of a set of obligations between two or more parties?",
+    "gold_doc_id": "squad_950cf9153b37187a2a46d767ca43354d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many of the Scottish electorate would need to for it on the referendum?",
+    "gold_doc_id": "squad_bb89e5279d473638bcb8dc4900ea502b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What government department did Buyantu shut down?",
+    "gold_doc_id": "squad_5f3852e32468a4689fdbf6f9b8ec6cb9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of civil disobedience is accompanied by aggression?",
+    "gold_doc_id": "squad_f25de37c08c3fa26abfb183fa407b666",
+    "rank": 12,
+    "recall@5": 0,
+    "mrr": 0.0833,
+    "success@100": 1
+  },
+  {
+    "query": "How much support does evidence provide for the view that labor-market flexibility improves labor-market outcomes?",
+    "gold_doc_id": "squad_21a261279d75d0e55a1428143d365f3d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of combustion does the slow reaction of triplet oxygen prevent?",
+    "gold_doc_id": "squad_b36eca5f4a5c2c37a24bf901328d8108",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was Geegen the emperor?",
+    "gold_doc_id": "squad_3f743cebcf17dd3106f4665532c2ccd4",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What religion's schools were integrated into New Zealand public schools between 1979 and 1984?",
+    "gold_doc_id": "squad_29e963731ece4ca0da4be494a9c89de0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is one example of a unique factorization domain?",
+    "gold_doc_id": "squad_ce19e0cdb4e2cf6713b22e83d5183daa",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the oncorhynchus also called?",
+    "gold_doc_id": "squad_bc4a3108de032c4fa1a58494d9312c3b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What German ruler invited Huguenot immigration?",
+    "gold_doc_id": "squad_0987df21b40d81f558a2ab7c4dc83cdc",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many representatives does each electorate have?",
+    "gold_doc_id": "squad_b51e692a6c0d8ef03effb4cc7e18f62c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what year did Harvard win an Intercolleiate Sailing Association National Championship?",
+    "gold_doc_id": "squad_171972272e0c6cd7a5af2f51a5fe336a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does the word Rheinrinne translate to?",
+    "gold_doc_id": "squad_f5864a308d74b3d0efb9c5bc7a76054e",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "Who was the leader when the Franks entered the Euphrates valley?",
+    "gold_doc_id": "squad_1509abc48cf44ad6cb956fee0150c16a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is one of the supplementary sources of European Union law? ",
+    "gold_doc_id": "squad_53f62b1502499ca91b206ad3087331a0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the term for a mathematical model that theoretically represents a general computing machine?",
+    "gold_doc_id": "squad_b6d6c1545f9207c286d9df5954ff3736",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are the ties that best described what the \"eight counties\" are based on?",
+    "gold_doc_id": "squad_c83924909ea767b1ae3ec6d66770c4b4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How similar was the Lisbon Treaty to the constitutional treaty?",
+    "gold_doc_id": "squad_6cef4d0bc80c68285779f281ad8e17d2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the name of the alphabet is most commonly used in a problem instance?",
+    "gold_doc_id": "squad_ebc2931d3e4a902d12555c2655d40edd",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what century did missionaries notably establish church schools in South Africa?",
+    "gold_doc_id": "squad_680f9b14db548a396bad8c5fd4bbf5c0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many miners died in the typhoid outbreak of 1854?",
+    "gold_doc_id": "squad_74ae3042e0ed514e9997f9dbcad8b3a8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What net loss did the Conservatives suffer?",
+    "gold_doc_id": "squad_291adae542e92cc43681e6772b8f8bda",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many times did southern California attempt to achieve a separate statehood?",
+    "gold_doc_id": "squad_1bbda68d89e3c1ecc13c46c814093600",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who received the first steam engine patent?",
+    "gold_doc_id": "squad_2ff24f027a2bd404cc6fd445ed4c2135",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do the reactive forms of oxygen produce in organisms?",
+    "gold_doc_id": "squad_5ce05d73c0656d899619274e06f5cef7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What award was given to Corliss?",
+    "gold_doc_id": "squad_c9204ecf65819655c8492048f1a0767c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How long does it take to know the outcome of a division?",
+    "gold_doc_id": "squad_24e3c7002fcae1f72c7164a99e0af084",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "That there currently exists no known integer factorization problem underpins what commonly used system?",
+    "gold_doc_id": "squad_e2b471ef98d3fd62a699ed7322beef52",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where was the Feb 2010 call for change published?",
+    "gold_doc_id": "squad_3a2488836374c823900e7da1449fedc8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who led Richard's troops when Cyprus was conquered?",
+    "gold_doc_id": "squad_d193d700667a25e1a690569842a66db4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What two scientists were proponents of the humoral theory of immunity?",
+    "gold_doc_id": "squad_cb1403e047a8a6a0e8989ad373a3ceb9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the Siege of Antioch take place?",
+    "gold_doc_id": "squad_bad292a90c8a79f0dada178bb76a59f0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What would income differentials be if individual contributions were relevant to the social product?",
+    "gold_doc_id": "squad_d6d85771ec1d20c30375bdeefb6e0ffc",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why does unemployment harm growth?",
+    "gold_doc_id": "squad_a76d7019c279ad26564c76a3c49de18b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did rapid warming begin and help vegetation?",
+    "gold_doc_id": "squad_dba4b96787171bca6bcf69aa0e0b0d43",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What country initially received the largest number of Huguenot refugees?",
+    "gold_doc_id": "squad_3ec02f6fec4d3a6be4c34e70f65c4f94",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who killed Harold II? ",
+    "gold_doc_id": "squad_191cfc9b210d65ca4f7e641bab4c852b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is Engineering News-Record?",
+    "gold_doc_id": "squad_21d3cb9df07918041a4eb045947ea0c7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What will a society with more equality have?",
+    "gold_doc_id": "squad_853263a5d63d8c96a219f4f5f7fe0790",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who is one prominent advocate of this theory?",
+    "gold_doc_id": "squad_cdc8921c56d4911a4a067ab56aabcc27",
+    "rank": 47,
+    "recall@5": 0,
+    "mrr": 0.0213,
+    "success@100": 1
+  },
+  {
+    "query": "How many miles south of San Jose is the north - south midway point located?",
+    "gold_doc_id": "squad_9cf6e95250d2dcd001a9896bd88d02ed",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who was an important figure in the twentieth-century Islamic revival in India?",
+    "gold_doc_id": "squad_79bdf8c75fe414b69310db306e236fec",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What influence did Al Banna wish to eliminate from the Muslim world?",
+    "gold_doc_id": "squad_405fc8a80b4162849cc426b578c7d578",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Silicates of magnesium and iron make up of the Earth's ___",
+    "gold_doc_id": "squad_902bf327680063db6262d2adbffd3cc1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What kind of interethnic marriage became common in the Jin dynasty?",
+    "gold_doc_id": "squad_0bff19c945f7b9cbf29df9c86a02189d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Construction involves the translation of what?",
+    "gold_doc_id": "squad_c24979eefa86ac43ccdf6613322c93fb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are the two bodies that make up the European Union's legislature?",
+    "gold_doc_id": "squad_c1bef51101eb8c5654f8770eaf071d37",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The transportation law allows personal aircraft to share the roadways with what?",
+    "gold_doc_id": "squad_3726a7bfa7fe82284b038cf3dafdfe8b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Of what form is the infinite amount of primes that comprise the special cases of Schinzel's hypothesis?",
+    "gold_doc_id": "squad_416f2646a5a77e731d0847ed2739ff76",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did Barton and Whitfield demand climate research records?",
+    "gold_doc_id": "squad_0be1cf30a3be023ab90b1777c53d81af",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What advise did Thoreau give the tax collector when unable to perform his duty?",
+    "gold_doc_id": "squad_81de2a6ab1067b024306239fbf0aa000",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How long does it take for new areas to have significant oil production?",
+    "gold_doc_id": "squad_bafd8f3a92e10cd9564a6e7b36a6351c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where is Brazil ranked globally in soybean production?",
+    "gold_doc_id": "squad_4b34c6893b7cccf1e612858868a75d31",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What equates to a squared integer according to polynomial time reduction?",
+    "gold_doc_id": "squad_315c6e56a76fb8569387a2f9f296e302",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "As of February 2011, how many numbers has Goldbach's conjecture been proven to?",
+    "gold_doc_id": "squad_f14e7b1e3cfd85ea533e16acdba3b203",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does not constitute as civil disobedience?",
+    "gold_doc_id": "squad_ff02d949697a3e9534e7785d8dfe3b3a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Outside of livestock, what else was considered a major industry in the agriculture regions?",
+    "gold_doc_id": "squad_82d9647e0a3c47f9e95a00323cf7be13",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of technology is the non organic separating of gases?",
+    "gold_doc_id": "squad_b2ef9025c9f00b66ebcd13238e0c4148",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What city has the largest inland port in Europe?",
+    "gold_doc_id": "squad_f2100ab0d27cdedfe63aab45967bcb80",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Is the output of a functional problem typically characterized by a simple or complex answer?",
+    "gold_doc_id": "squad_8f307075304214a5510baf42736e6d9e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was the naval base called?",
+    "gold_doc_id": "squad_514ddc20d051d9fd0dbaadac6f6530ea",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What do extremely unequal societies tend to be?",
+    "gold_doc_id": "squad_1f48108d7362a3f716b15ab5a6214581",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The complexity of problems often depends on what?",
+    "gold_doc_id": "squad_70d431032369b561db31eda655c9899b",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What is the estimate for the amount of tree species in the amazon tropical rain forest?",
+    "gold_doc_id": "squad_6cd1e81369d89e79f326c3bdefc749ad",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "From what landmark within Fresno does the Tower Theatre get its name?",
+    "gold_doc_id": "squad_e608682daf8091e0c84e2d69974c37d8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many firms were existing in 2005?",
+    "gold_doc_id": "squad_4c6c0446863fcf9e605bc87be138c77f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the glacial alpine valley known as?",
+    "gold_doc_id": "squad_f098941fe4e8d1abedf5c1a86f0d080c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What should be the main goal of not using punishment in a just system?",
+    "gold_doc_id": "squad_28edc5b89cc1a59cc3719076cd106f3b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where did the residents of Antioch flee to?",
+    "gold_doc_id": "squad_73898272379ac089097f5b330e406e02",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of compounds such as acetone,contain oxygen?",
+    "gold_doc_id": "squad_15e98f6e0b41369058ac0c7a0cab55d7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Oxygen exists in the atmosphere by way of what?",
+    "gold_doc_id": "squad_902bf327680063db6262d2adbffd3cc1",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What type of vote must the Parliament have to either block or suggest changes to the Commission's proposals?",
+    "gold_doc_id": "squad_74bf8cca4b022ee23a99a6fcfa79633d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What function does ozone perform for the planet?",
+    "gold_doc_id": "squad_d4bd0c4b4f9f6f2f782c161f24ca7781",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How did their lawyer suggest they would plea?",
+    "gold_doc_id": "squad_8f41d054b9d5c3df202b268177ab1049",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "How much of the water flow does the Waal get from the Rhine?",
+    "gold_doc_id": "squad_a03e2b21c0eebbf61bfdb7dfd1d82714",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "How did the Rhine extend watershed southward? ",
+    "gold_doc_id": "squad_82b5c8585b129832c04e6c270da7e3e0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what year did Malaysia receive its independence?",
+    "gold_doc_id": "squad_3ae7dee0e8a6aabeaf5976bf0ab9196c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What river was Petrela located by?",
+    "gold_doc_id": "squad_2d11b29ca005d8d853530a2a310827d0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What English chemist showed that fire only needed nitoaereus?",
+    "gold_doc_id": "squad_6f0ed1570f647fbb58aaf0c28f366498",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What should be avoided when talking to authorities?",
+    "gold_doc_id": "squad_3c18153ab83e19b6c14d071930c77b92",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "UChicago claims to have what kind of learning experience compared to other universities? ",
+    "gold_doc_id": "squad_3dbccc567233f8125fcfc478a9eb4f59",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the Proto-Germanic adoption of the Gaulish name of the Rhine?",
+    "gold_doc_id": "squad_4e562d1e24e75c9d84194a6da80ffc25",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the first line of defense against pathogens that prevents them from entering an organism?",
+    "gold_doc_id": "squad_f2a3f568962d00e122a75cd421da8550",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "Funding limitations allowed CSNET to be what ",
+    "gold_doc_id": "squad_184b442ab72ba9ac5b1f2faa690d4ef2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who developed the first commercial steam powered device?",
+    "gold_doc_id": "squad_d6c28e91c6753aef7572adcea6f65c99",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did Thoreau claim about the majority?",
+    "gold_doc_id": "squad_81de2a6ab1067b024306239fbf0aa000",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "French troops put down the Camisard uprisings between what years?",
+    "gold_doc_id": "squad_e9ccd3d46119ea855d5be065b50f9ec3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are dart frogs are known to secrete?",
+    "gold_doc_id": "squad_6fc049bd08a96bcd127457f792ccf18a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What has become the secret to economic growth?",
+    "gold_doc_id": "squad_a23752bef6dfc8f0791258a99a32e848",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did Gasquet think the plague was?",
+    "gold_doc_id": "squad_5efcb3b61e9f2c24e779986f70a781f2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Other than San Bernardino, what is the name of the other city that maintains the districts including University Town?",
+    "gold_doc_id": "squad_3c197b606ece571e11986d0c23659a8a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What book was Iqbal's seven English lectures published as?",
+    "gold_doc_id": "squad_9e89c88de2478bfbf71fb05120290565",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What country did the Normans invade in 1169?",
+    "gold_doc_id": "squad_1951f2208bc050115daa97d6985c26aa",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What property of the harmonic series 1 + 1/2 + 1/3 + 1/4 + ... shows that there is an infinite number of primes?",
+    "gold_doc_id": "squad_b5a8c9baae549db690b7c5698fa6c4ca",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Income not from the creation of wealth but by grabbing a larger share of it is know to economists by what term?",
+    "gold_doc_id": "squad_88ea3eaff60dcb8ea5c737aa8053900f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which species moves by a darting motion?",
+    "gold_doc_id": "squad_0da367e430e4738b67f0889f7f4e13c5",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who discovered the Compton Effect?",
+    "gold_doc_id": "squad_88844ee014e1ab3ad568ad4ce80dfe96",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is necessary to disobey?",
+    "gold_doc_id": "squad_9098c028674bc825ab1576d9c80f4495",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who disliked the affiliate program?",
+    "gold_doc_id": "squad_d969b6e1cd95535f84215d6f5aa3d189",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which gas makes up 20.8% of the Earth's atmosphere?",
+    "gold_doc_id": "squad_06d677cd91e926776ec8350408cc0fca",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which court argued that the Treaty of Rome did not prevent energy nationalism?",
+    "gold_doc_id": "squad_bc04248da13a1bed26da7b20eaf73607",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is a mechanical barrier in insects that protects the insect?",
+    "gold_doc_id": "squad_73f4988ebfcd099e1c60a35d09040360",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Other than the San Jacinto Fault, and the Elsinore Fault, name one other fault.",
+    "gold_doc_id": "squad_0c94d27a177796cd1358e1cfe3fb00a7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the enrollment of undergraduates at Harvard?",
+    "gold_doc_id": "squad_5ed36059052762638b06d7e819cde1d6",
+    "rank": 4,
+    "recall@5": 1,
+    "mrr": 0.25,
+    "success@100": 1
+  },
+  {
+    "query": "What well-known archeologist believed the Amazon didn't have many inhabitants?",
+    "gold_doc_id": "squad_fea528e0654583f24af00e99cb593781",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of steam engine produces most electricity in the world today?",
+    "gold_doc_id": "squad_020216816e73af7b8309329c7f8ece23",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What present-day area was this settlement near?",
+    "gold_doc_id": "squad_076dbed33bbac683cd124cd201305ee9",
+    "rank": 7,
+    "recall@5": 0,
+    "mrr": 0.1429,
+    "success@100": 1
+  },
+  {
+    "query": "Why are researchers struggling to identify the history of the plague?",
+    "gold_doc_id": "squad_c1d6fd39d38bc43384666be62b42c142",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Based on population alone, what is Jacksonville's ranking in the United States?",
+    "gold_doc_id": "squad_9aa5e6375f261b87cc53b21fc7cc7a3a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What sorts of items are displayed in the Esteve Pharmacy museum?",
+    "gold_doc_id": "squad_1b89ebd52e6939458a66f2dc555cf30a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who argues that the government redistributes wealth by force?",
+    "gold_doc_id": "squad_4ca9dc96f8bdf4fe57920dd70dd60049",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the most likely effect of breathing oxygen?",
+    "gold_doc_id": "squad_14804a2daea03774b181d6ce3fe219d0",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "How many times more did the other nations have to pay for oil after the surprise attack?",
+    "gold_doc_id": "squad_80f933cf50bde3f641fbaf385c0d980c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What percentage of total financial aid for undergraduates from Harvard was in the form of grants?",
+    "gold_doc_id": "squad_1507d426c72fb2c04293defcc429e3d3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The idea of acquired immunity in jawed vertebrates is the basis of what medical treatment?",
+    "gold_doc_id": "squad_a4180c8c4fb2b531b403b9a486bfb182",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who founded the Ming dynasty?",
+    "gold_doc_id": "squad_50dc55bd70950105cfc337887db08470",
+    "rank": 4,
+    "recall@5": 1,
+    "mrr": 0.25,
+    "success@100": 1
+  },
+  {
+    "query": "What does a receiver have to be equipped with to view encrypted content?",
+    "gold_doc_id": "squad_96f5ba5531410ced34255f083184033d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What probiotic flora is found in unpasteurized yogurt?",
+    "gold_doc_id": "squad_735a3ebcb7c98f644f4ed384ddc1fd07",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why does a lower level of economic growth occur due to high-end consumption?",
+    "gold_doc_id": "squad_a6fff0fbbdf50f6e3eeb62cab55efc2a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What encouraged cultural exchange under the Yuan?",
+    "gold_doc_id": "squad_d5a429661585db11c01617332d1f0cb7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "According to the Princeton Review where has Harvard ranked as a \"Dream College\" in 2013",
+    "gold_doc_id": "squad_112ee33b3359ddbbb52103f2bc54fd7d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who founded Telnet ",
+    "gold_doc_id": "squad_f682fab2456aa4751c9bbb6440a07814",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Name an extra that was added to the production of the compacts.",
+    "gold_doc_id": "squad_80346cde7f0edc819881c9981f5c64b6",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is Southern California often abbreviated as?",
+    "gold_doc_id": "squad_c83924909ea767b1ae3ec6d66770c4b4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who was Ralph in charge of being at war with?",
+    "gold_doc_id": "squad_334a2ba33f4f108a2fb8ea3c6099924e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why has the Rhine been shortened?",
+    "gold_doc_id": "squad_6d0bed517e6374ac318047dcbf98a39a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Along with tuition, scholarships, vouchers, donations and grants, where does funding for private schools come from?",
+    "gold_doc_id": "squad_c1ff41e76c87082af9450ca7af94e642",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are some of the accepted general principles of European Union law?",
+    "gold_doc_id": "squad_452ea96a6a15ed63f3584ce5c692ac48",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does Packet switching contrast with ",
+    "gold_doc_id": "squad_eaa24cef612af97a6a9769a79840bc88",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Under Elie Metchnikoff's cellular theory, what cells were responsible for immune response?",
+    "gold_doc_id": "squad_cb1403e047a8a6a0e8989ad373a3ceb9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the name of the longest bridge in Germany?",
+    "gold_doc_id": "squad_2360c02044fba15e1bd0931f56673c9e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Living from 973\u20131048 CE he was one of the earliest Persian geologists, what was his name?",
+    "gold_doc_id": "squad_99ea459dc901348e619340956762c7e7",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which Treaty protects the freedom of establishment and the freedom to provide services?",
+    "gold_doc_id": "squad_40273319e8e814a42c74f451dd8c04a9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What party had a victory in the 2015 UK election?",
+    "gold_doc_id": "squad_47ee590a05200dcec4406dcbaab9c456",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What goal does Islamism have when it comes to society and government?",
+    "gold_doc_id": "squad_c977f5c156756d2cf16045bac8b6837a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which type of climate may have allowed the rainforest to spread across the continent?",
+    "gold_doc_id": "squad_a45eb205456e69f7cc3afd907e4e114a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "France laid siege to Montpellier in what year?",
+    "gold_doc_id": "squad_ed4e6d510fb5c97e7be0eb482c38c563",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What makes ctenophores different from all other animals?",
+    "gold_doc_id": "squad_0bee6d737cf46d3aecd36cc741874547",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "By sunlight, what compound did  Priestley concentrate on to make the gas he called \"dephlogisticated air\"?",
+    "gold_doc_id": "squad_d9fbfb146ec8f044b830cf7f69d966cf",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What helped spread Protestantism in France?",
+    "gold_doc_id": "squad_2ccde9165118d3a7a68d4b732db70358",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What power is available to Australian private schools but generally not present in public schools?",
+    "gold_doc_id": "squad_1f83c77c1adf2fb5d74ed6cc0548f05c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who claims that public companies can also be part of civil disobedience?",
+    "gold_doc_id": "squad_a0c55cc2aa74b67ba43e33f05095dc5e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who was famous for disobedience against a tax collector?",
+    "gold_doc_id": "squad_81de2a6ab1067b024306239fbf0aa000",
+    "rank": 15,
+    "recall@5": 0,
+    "mrr": 0.0667,
+    "success@100": 1
+  },
+  {
+    "query": "The Muslim Brotherhood's competence compares well against what type of local governments?",
+    "gold_doc_id": "squad_865e6e0e73cfe5ab0964a42e84fe8862",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are two basic primary resources used to guage complexity?",
+    "gold_doc_id": "squad_37b047840abdf4e2b208716622d6fd31",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "On what theorem is the formula that frequently generates the number 2 and all other primes precisely once based on?",
+    "gold_doc_id": "squad_af7a0906ec2d84525ef835fb8afabb1f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the Rhine called in French?",
+    "gold_doc_id": "squad_4e562d1e24e75c9d84194a6da80ffc25",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What would a parent have to pay to send their child to a boarding school in 2012?",
+    "gold_doc_id": "squad_f453be6a5feac51a6da64288cb9cef2a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What rift system developed in the Alpine orogeny?",
+    "gold_doc_id": "squad_eb506bd7b8da7a472204bc75a3e4f175",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What contributed to water pollution in the Rhine? ",
+    "gold_doc_id": "squad_f2100ab0d27cdedfe63aab45967bcb80",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "For what nation did Ribault initially claim what is now Jacksonville?",
+    "gold_doc_id": "squad_4b962b09bdc3237fd53998ac2de92e6a",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "What did Gou use for astronomy?",
+    "gold_doc_id": "squad_d6fec8dd3729e72ee255248ca9e6b80e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How far does one pharmacy in Croatia date back to?",
+    "gold_doc_id": "squad_1b89ebd52e6939458a66f2dc555cf30a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was invented by Savery?",
+    "gold_doc_id": "squad_b7b7cce610896e671657596908ddf1fb",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "What chemical did Priestley use in his experiments on oxygen?",
+    "gold_doc_id": "squad_d9fbfb146ec8f044b830cf7f69d966cf",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What interfered with Kublai's second invasion of Japan?",
+    "gold_doc_id": "squad_dbea60192aabbf2682f0e1002bd55329",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In the mid 18th century, who did not concur that 1 should be the first prime number?",
+    "gold_doc_id": "squad_bfbfd94381d2fef0b6c38e2fdf15eb36",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what year was a set of significant rule changes introduced including the forward pass?",
+    "gold_doc_id": "squad_d823cecbe09c82e1450a5afd63fbc4a3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "From 2004 to 2005 Harvard reduced the number of students earning Latin honors from 90% to what?",
+    "gold_doc_id": "squad_e257d6df927b6a4613d48eafa28d4ec6",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What year did Robert J. Shiller win an Economics Nobel prize?",
+    "gold_doc_id": "squad_7ad93083c1335d0fccd608a9c9f5463b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which artist has a piece of his artwork located at the Fulton Mall?",
+    "gold_doc_id": "squad_7f63c48062dcfa20d4e7f20ff5d049d3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is a spark or heat to the progress of a fire?",
+    "gold_doc_id": "squad_c0039c349a84b81d0eff9531df988ce9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of fault boundary is defined by having widespread powerful earthquakes, as in the state of California?",
+    "gold_doc_id": "squad_a153b7134b8ccf9cd962d13501542bdc",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What can the growth elasticity of poverty depend on?",
+    "gold_doc_id": "squad_c12eb24972876d0408ab2d1ac274ed7d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who took Isaacs place as Provost in 2016?",
+    "gold_doc_id": "squad_c44f8007c7e7514c26d37440f8336afb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why do police and fire services fall under the purview of the Scottish Parliament?",
+    "gold_doc_id": "squad_2d5ed1843c2c656ba29fa8def5ac9a4f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When were the Mongols defeated by the Tran?",
+    "gold_doc_id": "squad_dbea60192aabbf2682f0e1002bd55329",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is KMJ now referred to?",
+    "gold_doc_id": "squad_7014466ddc2ef18f0414abaafb887e84",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What area in South Africa accepted Huguenot colonists?",
+    "gold_doc_id": "squad_e07c08de25adce5f8929dc6d768103ec",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the name of the co-ed community service fraternity?",
+    "gold_doc_id": "squad_1a8df635168a59197c83c706451ef454",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the Norman architecture idiom?",
+    "gold_doc_id": "squad_0faee0971a479616641d2cd3e2c307be",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What would be lower if there were fewer people?",
+    "gold_doc_id": "squad_26035f5b7a6489c8549bf0fc73582737",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the immune system of the brained known as?",
+    "gold_doc_id": "squad_5295aa2e3db689644f21044426d4c997",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who stated a change of the length of the Rhine?",
+    "gold_doc_id": "squad_be822ba237c1316198ec7699977a20fa",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was the Parental Leave directive created?",
+    "gold_doc_id": "squad_fe0e8eb5f9dc6bd1838425116a6c2e98",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How is circuit switching allocated ",
+    "gold_doc_id": "squad_eaa24cef612af97a6a9769a79840bc88",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does the Fogg Museum of Art cover?",
+    "gold_doc_id": "squad_68809b2e3b59bfcfe90c9fd08fcd6c65",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What nationality was Arthur Woolf?",
+    "gold_doc_id": "squad_33db5be4b835b898ce062a1925a8c614",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the total cost of attendance in 2012-13?",
+    "gold_doc_id": "squad_1507d426c72fb2c04293defcc429e3d3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the temperature in the highest portion of the mountain range in winter?",
+    "gold_doc_id": "squad_a398c904df490aa5e4a493ed5b4549ec",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many valves did the Corliss engine use?",
+    "gold_doc_id": "squad_c9204ecf65819655c8492048f1a0767c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who are debates and meetings open to?",
+    "gold_doc_id": "squad_e18e72bfa4666d9347c9c51f7df83afe",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When was the Duchy of Normandy founded?",
+    "gold_doc_id": "squad_80d1226c8b9c065a45a15c3baf130fa4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the name of the bridge that joins parts of the campus of the Charles River?",
+    "gold_doc_id": "squad_9664157dac725765f97b54eaa86564dd",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When will Ford's manufacturing plants close?",
+    "gold_doc_id": "squad_c39d677340ae9d6a820b70fbefabc452",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does FOTA stand for?",
+    "gold_doc_id": "squad_7869ee454b2203cd0b70069653af6ed3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did BSkyB name their interactive service?",
+    "gold_doc_id": "squad_3d5d5d1ca6143b7810563214317b2d0c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What tv host and writer went to Harvard?",
+    "gold_doc_id": "squad_603f1fe2ba994329bd2abd2e2a9da8b5",
+    "rank": 4,
+    "recall@5": 1,
+    "mrr": 0.25,
+    "success@100": 1
+  },
+  {
+    "query": "What was the English title of Polo's book?",
+    "gold_doc_id": "squad_6a6b50c5f109ff6945c49130538345c5",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What did historians do in the absence of census figures?",
+    "gold_doc_id": "squad_6f04fe071ada7082c8d91829cb24a599",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How often are elections held for the Victorian Parliament?",
+    "gold_doc_id": "squad_b51e692a6c0d8ef03effb4cc7e18f62c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Purpose of Telnet ",
+    "gold_doc_id": "squad_f682fab2456aa4751c9bbb6440a07814",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "What is the major US city that the is the university located?",
+    "gold_doc_id": "squad_7ca190c249ba783fe18463e8c52c9f58",
+    "rank": 4,
+    "recall@5": 1,
+    "mrr": 0.25,
+    "success@100": 1
+  },
+  {
+    "query": "How does the level of tuition in German private schools compare to private schools in other Western European countries?",
+    "gold_doc_id": "squad_c03a035dfe317277c8f45a91546bf335",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Along with fuel sources, what concern has contributed to the development of the Advanced Steam movement?",
+    "gold_doc_id": "squad_d96360d87535b5e4b6c17d97b8a1940e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are two anti-inflammatory molecules that peak during awake hours?",
+    "gold_doc_id": "squad_388aa586cf0402c04a572e3e28fcfad9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The average contractor hired how many employees?",
+    "gold_doc_id": "squad_4c6c0446863fcf9e605bc87be138c77f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Outside of its use of automobiles, what else is southern California famous for using?",
+    "gold_doc_id": "squad_e827dfeab52ef5d09320f31c47661121",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was the Italian title of Polo's book?",
+    "gold_doc_id": "squad_6a6b50c5f109ff6945c49130538345c5",
+    "rank": 4,
+    "recall@5": 1,
+    "mrr": 0.25,
+    "success@100": 1
+  },
+  {
+    "query": "Many changes in the vegetation of the amazon rainforest took place since the  Last Glacial Maximum, which was how many years ago?",
+    "gold_doc_id": "squad_545c8e659a5e569dbeab6f6ed06f895f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "An igneous rock is a rock that crystallizes from what?",
+    "gold_doc_id": "squad_cd46ab1c3a9df0c803333cf65db1abe6",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Since when was the Rhine part of the areal of Hallstatt culture?",
+    "gold_doc_id": "squad_cd770c2cf6e44f80cb1380763e2406c8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do the strains of y. pestis suggest abut the plague?",
+    "gold_doc_id": "squad_382c0783c3e6ef85e00295fdc2755fc0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What conditions must be met for a prescription for a controlled substance to be valid?",
+    "gold_doc_id": "squad_23b4de9dae24b3f0b0bfcf52fe2b53e5",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where were non-condensing direct-drive locomotives notably used for fast passenger trains?",
+    "gold_doc_id": "squad_3840cd9060ba6d0c3045039407257960",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did Huguenots colonize in North America?",
+    "gold_doc_id": "squad_767140fe247c3a1c9f8d32602846e63b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where does the Rhine river's measurement end?",
+    "gold_doc_id": "squad_6d0bed517e6374ac318047dcbf98a39a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Other than its main central  business district, where are the majority of San Diego's business districts located?",
+    "gold_doc_id": "squad_6674609dee11ecbd1a9d62395279d060",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What device is a dry cooling tower similar to?",
+    "gold_doc_id": "squad_24d9c39dbe9b6cd94922788bccd89b84",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "There were many Chinese with what unexpected status?",
+    "gold_doc_id": "squad_7d8260deae6a3509c3d5813990abc48e",
+    "rank": 20,
+    "recall@5": 0,
+    "mrr": 0.05,
+    "success@100": 1
+  },
+  {
+    "query": "Which successor to Henry resumed persecution of the Huguenots?",
+    "gold_doc_id": "squad_9225f07bacbaef7e4a67cfb785003cd4",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Antibodies transported from the mother to an infant via the placenta is an example of what type of short-lived immunity?",
+    "gold_doc_id": "squad_779dc3497ffccf2a849d8e7806012202",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which two groups have cells bound by inter-cell connections and membranes, muscles, a nervous system and sensory organs?",
+    "gold_doc_id": "squad_0bee6d737cf46d3aecd36cc741874547",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who used the church to unify themselves?",
+    "gold_doc_id": "squad_591aa1a73ea6651dfede1aa6e5f7914e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What branch of theoretical computer science deals with broadly classifying computational problems by difficulty and class of relationship?",
+    "gold_doc_id": "squad_7f2871959b84020aeceb9437f663a08a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who lives no longer on average than Greeks and New Zealanders?",
+    "gold_doc_id": "squad_50b5fee3b3f0b92c268be5b5f58535b5",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How else can petrologists understand the pressures at which different mineral phases appear?",
+    "gold_doc_id": "squad_286c2c95eced93090789617cf58048f8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of amendments might members opposed to a bill put on the table?",
+    "gold_doc_id": "squad_ef76c59b1571d6d58721224ac7d80558",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who inspects the building periodically to ensure that the construction adheres to the approved plans and the local building code?",
+    "gold_doc_id": "squad_86151fd99511879060a11dca27d0d12b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "William would eventually gain what throne?",
+    "gold_doc_id": "squad_2afc7f85f29895d468e660c7ab61b617",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "How is packet switching characterized ",
+    "gold_doc_id": "squad_eaa24cef612af97a6a9769a79840bc88",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is structural geology?",
+    "gold_doc_id": "squad_9251f082aecf52605ff63e866508a3df",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "How many atoms combine to form dioxygen?",
+    "gold_doc_id": "squad_06d677cd91e926776ec8350408cc0fca",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "If NP is not equal to P, viewed through this lens, what type of problems can also be considered intractable?",
+    "gold_doc_id": "squad_e4e7d582290cde46ac527b8f14b6b9f9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What are the three sectors of construction?",
+    "gold_doc_id": "squad_a83bf69d75bd99d87db6d2162ec5cf74",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What US war has a large amount of Civil Disobedients?",
+    "gold_doc_id": "squad_dff842bf8c3f5a6a4eaebfec57fc8dd3",
+    "rank": 5,
+    "recall@5": 1,
+    "mrr": 0.2,
+    "success@100": 1
+  },
+  {
+    "query": "How significant was the transfer of disease through fleas?",
+    "gold_doc_id": "squad_c8881948fe93f2ed1338ed503da4dc4e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is a statocyst?",
+    "gold_doc_id": "squad_67d888208d8df9bf1c4a052a9fe5d037",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do petrologists use electron microprobes in the laboratory for?",
+    "gold_doc_id": "squad_e4ceee1d594841408af35d2cc66773cc",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Which caused the reform to never come into force?",
+    "gold_doc_id": "squad_6cef4d0bc80c68285779f281ad8e17d2",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many academic majors does the university grant in total?",
+    "gold_doc_id": "squad_f7d9dc23d8de52d8e9cefdd8da351dfb",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What does the ciliary rosettes do to decease bulk and increase density?",
+    "gold_doc_id": "squad_446f40ff73eeb606457c3b3026b73fcd",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What do closed rivers serve as after they close?",
+    "gold_doc_id": "squad_a6fefba64038286f6915eaea3a61a228",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the European Council task an entity with drafting a European Charter of Human Rights?",
+    "gold_doc_id": "squad_a98e571e69a718f01b39b84e653a0a2d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What did some of the Islamist groups supported by the West later become to be seen as?",
+    "gold_doc_id": "squad_9b1e3dfb1952f51c1e21174278f9482b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "what does vBNS stand for ",
+    "gold_doc_id": "squad_6aa223a10d3a6ba39af041d48ccc4b86",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the undergraduate program become coeducational?",
+    "gold_doc_id": "squad_040f34f7b3c5b74b246452485a71b3b1",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What company was formed by the merger of Sky Television and British Satellite Broadcasting?",
+    "gold_doc_id": "squad_aca557495ecccdd63ce90422ab262e3a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who was the hostage?",
+    "gold_doc_id": "squad_8d78e31f5bfce5ac45e6edc0a7e5745a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the steam engine's thermodynamic basis?",
+    "gold_doc_id": "squad_112336ae04710a0a0a9368c9f72f4fff",
+    "rank": 3,
+    "recall@5": 1,
+    "mrr": 0.3333,
+    "success@100": 1
+  },
+  {
+    "query": "How many types of movements do euplokamis tentilla have?",
+    "gold_doc_id": "squad_3a753358b2018308771eaff95576307c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In the 1980s what was the population of the amazon region?",
+    "gold_doc_id": "squad_fea528e0654583f24af00e99cb593781",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Survival needs such as income for food and shelter motivates what type of entrepreneurship? ",
+    "gold_doc_id": "squad_bd69bf75b284d231d72d51e0ad49b39b",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The atomic number of the periodic table for oxygen?",
+    "gold_doc_id": "squad_06d677cd91e926776ec8350408cc0fca",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what decade were injectors widely used in steam engines?",
+    "gold_doc_id": "squad_7c15c77d66926397a89ec14237a11298",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the Yuan people suffer a series of natural disasters?",
+    "gold_doc_id": "squad_793de72110185d3ef90bbd22cf4119ec",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Why did the demand for rentals decrease?",
+    "gold_doc_id": "squad_cc4359cd80e2a702729e5cc2dbadd1dd",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?",
+    "gold_doc_id": "squad_b77976393df202a28ea9f50c509291f1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is rugby rapidly becoming with high schools?",
+    "gold_doc_id": "squad_b0253d2905f1b7220453d2ed35fda523",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What civilization did the pottery belong to?",
+    "gold_doc_id": "squad_f5fffcb0f9bfa042890a3f460b6a2672",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "The academic body of the university is made up of how many divisions of graduate?",
+    "gold_doc_id": "squad_21d6b65f48dda5a53cfdfe1bc9f6e9cd",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "By what main attribute are computational problems classified utilizing computational complexity theory? ",
+    "gold_doc_id": "squad_7f2871959b84020aeceb9437f663a08a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How did the Better Jacksonville Plan generate money?",
+    "gold_doc_id": "squad_6ebd94df2163bf238742240248b18aa1",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When did the last glacial start?",
+    "gold_doc_id": "squad_638e84be057d509c75ec2a4fcf78f6ff",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many tons of living plants are in the rainforest?",
+    "gold_doc_id": "squad_6d76d48211e85dcab8b6db49c2b531ec",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How much of the IPCC attendees are government representatives?",
+    "gold_doc_id": "squad_ec47986e9b2e86203fd1460ed78d0a96",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When dating rocks, what is the absolute isotopic date applied to?",
+    "gold_doc_id": "squad_243e5209440bed44351adaec1343346f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Where were the Lambing Flat riots?",
+    "gold_doc_id": "squad_74ae3042e0ed514e9997f9dbcad8b3a8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How many general questions are available to opposition leaders?",
+    "gold_doc_id": "squad_084376b9f4acebba12de85af60818096",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What language is used in Chinese secondary schools in Malaysia?",
+    "gold_doc_id": "squad_3ae7dee0e8a6aabeaf5976bf0ab9196c",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the study of proteins involved in immune response known as?",
+    "gold_doc_id": "squad_9cb37ded9ceec018ba9462fd2943f4f3",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who did a pressurized oxygen cabin fire kill?",
+    "gold_doc_id": "squad_29e8975ef9721e79f2f6dc9b26500312",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Juvenile platyctenids act like what?",
+    "gold_doc_id": "squad_5da6611038c70a13ab0ae28fb3c6679e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "For how long did Huguenots continue to use French names?",
+    "gold_doc_id": "squad_ebead08516f72c4d9c45ee599fa61cd0",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "A language solved in quadratic time implies the use of what type of Turing machine?",
+    "gold_doc_id": "squad_311cee3a72d2893431716b6d7f71f59d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "How is oxygen produced from carbon dioxide on the other planets of the solar system?",
+    "gold_doc_id": "squad_36799e81ccc41297b8743acc6a7fff63",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "If there is a conflict between EU law and national law, which law take precedence?",
+    "gold_doc_id": "squad_bc04248da13a1bed26da7b20eaf73607",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "In what type of ring can prime ideals be used for validating quadratic reciprocity?",
+    "gold_doc_id": "squad_9f939fd68b92ecce44c6beb9116a7aff",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the throat called?",
+    "gold_doc_id": "squad_0e55493e3f87e5c4fe8af19c5dd21e60",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of steam engine doesn't need valves to direct steam?",
+    "gold_doc_id": "squad_86ad828e59c59627293e20a0885145a9",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Under what condition is an element irreducible?",
+    "gold_doc_id": "squad_b930a14772f10d6ccd16abadfa9db807",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What is the typical annual cost for an Irish private school?",
+    "gold_doc_id": "squad_b25120795a3915204bbbbe1a0c25927d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What direction did Watson say the mistake went in?",
+    "gold_doc_id": "squad_acac40b5e92471f7d7b2421879932897",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Revolutionary civil disobedience towards culture is highlighted by example of who? ",
+    "gold_doc_id": "squad_9bfa72e9777f039d0a963c6ff4802380",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What way do some people perform civil disobedience in a constructive way?",
+    "gold_doc_id": "squad_faa6de69833365532a706636353c725c",
+    "rank": 5,
+    "recall@5": 1,
+    "mrr": 0.2,
+    "success@100": 1
+  },
+  {
+    "query": "What day of the week are general elections held?",
+    "gold_doc_id": "squad_f40066b72f35585d0e53a19a231cdf4f",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "When were these settlers naturalized as English colonists?",
+    "gold_doc_id": "squad_0cb8f979bc7732a6fb66b11ab08ad393",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What type of musical instruments did the Yuan bring to China?",
+    "gold_doc_id": "squad_bab258494466a73c9e67a488bea3ad2e",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What physical condition can acute oxygen toxicity cause?",
+    "gold_doc_id": "squad_52492bd6cdb48dc625ed42c04dfffb02",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Southern California's distinctive regions are divided culturally, politically and what other trait?",
+    "gold_doc_id": "squad_6824cf4b7285114e5ae58222782b9d3d",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What leads to lower income inequality?",
+    "gold_doc_id": "squad_34ba3ce159cbc455f3cb082d155e665e",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "What kind of needlework was used in the creation of the Bayeux Tapestry?",
+    "gold_doc_id": "squad_72d41c67cfbba73e0fd851d16fd77a44",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Is the packet header long ",
+    "gold_doc_id": "squad_e91fa7c07fa7d72cce9a2d793a7b0b4a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Who was the university's 5th president?",
+    "gold_doc_id": "squad_7726e871f9b1479d13f97659f63f0943",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Reports document that how many Parisien Protestants were killed by September 17?",
+    "gold_doc_id": "squad_c30848dddc30ce49d852605d93e6469a",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "Bacteria often secrete what kind of proteins to ingest a physical barrier?",
+    "gold_doc_id": "squad_cf151457b33a718c7fc4b04b3ee0b563",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was required of Huguenot children after the Edict was revoked?",
+    "gold_doc_id": "squad_6f0f24754bf936b9f4cd18142acc0000",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What kind of non-peer-reviewed sources does the IPCC use?",
+    "gold_doc_id": "squad_b37d10324139e6e605bdce1e0bcc4fac",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What other Northern European cities had Huguenot congregations?",
+    "gold_doc_id": "squad_32c2f2d607c2deed6079c92275442a21",
+    "rank": 2,
+    "recall@5": 1,
+    "mrr": 0.5,
+    "success@100": 1
+  },
+  {
+    "query": "After the Peterloo massacre what poet wrote The Massacre of Anarchy?",
+    "gold_doc_id": "squad_0a522d538b9f215ea3de5feb7e289180",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  },
+  {
+    "query": "What was the original name of California State University at Fresno?",
+    "gold_doc_id": "squad_e608682daf8091e0c84e2d69974c37d8",
+    "rank": 1,
+    "recall@5": 1,
+    "mrr": 1.0,
+    "success@100": 1
+  }
+]

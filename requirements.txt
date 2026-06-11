@@ -1,0 +1,33 @@
+# HaRAG: Hallucination-Aware RAG
+# ================================
+# Core ML
+torch>=2.1.0
+transformers>=4.38.0
+sentence-transformers>=2.6.0
+datasets>=2.18.0
+accelerate>=0.27.0
+
+# Retrieval
+rank_bm25>=0.2.2
+faiss-cpu>=1.7.4          # or faiss-gpu for GPU
+
+# NLP utilities
+nltk>=3.8.1
+spacy>=3.7.0
+
+# Evaluation
+scikit-learn>=1.4.0
+scipy>=1.12.0
+numpy>=1.26.0
+
+# API server
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.6.0
+
+# Misc
+tqdm>=4.66.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+python-dotenv>=1.0.1

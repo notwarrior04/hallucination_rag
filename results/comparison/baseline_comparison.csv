@@ -1,0 +1,6 @@
+Method,Factuality AUC,Avg Confidence
+Standard RAG,0.5,0.2939
+RAG + Evidence,0.5,0.5663
+RAG + Verifier,0.5,0.4838
+RAG + Detector,0.5,0.4789
+Full HaRAG,0.5,0.4789

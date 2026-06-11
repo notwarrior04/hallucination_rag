@@ -1,0 +1,62 @@
+{
+  "Recall@1": {
+    "baseline": 0.868,
+    "upgraded": 0.888,
+    "delta": 0.02
+  },
+  "Recall@5": {
+    "baseline": 0.976,
+    "upgraded": 0.978,
+    "delta": 0.002
+  },
+  "Recall@10": {
+    "baseline": 0.982,
+    "upgraded": 0.986,
+    "delta": 0.004
+  },
+  "Recall@20": {
+    "baseline": 0.992,
+    "upgraded": 0.994,
+    "delta": 0.002
+  },
+  "Hit@1": {
+    "baseline": 0.868,
+    "upgraded": 0.888,
+    "delta": 0.02
+  },
+  "Hit@5": {
+    "baseline": 0.976,
+    "upgraded": 0.978,
+    "delta": 0.002
+  },
+  "Hit@10": {
+    "baseline": 0.982,
+    "upgraded": 0.986,
+    "delta": 0.004
+  },
+  "Hit@20": {
+    "baseline": 0.992,
+    "upgraded": 0.994,
+    "delta": 0.002
+  },
+  "MRR": {
+    "baseline": 0.9138,
+    "upgraded": 0.9277,
+    "delta": 0.0139
+  },
+  "nDCG@10": {
+    "baseline": 0.9303,
+    "upgraded": 0.9417,
+    "delta": 0.0114
+  },
+  "Success@100": {
+    "baseline": 0.998,
+    "upgraded": 1.0,
+    "delta": 0.002
+  },
+  "Mean Rank": {
+    "baseline": 1.79,
+    "upgraded": 1.5,
+    "delta": -0.29
+  }
+}

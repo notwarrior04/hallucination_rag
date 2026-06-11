@@ -1,0 +1,7 @@
+mode,auc,ece,brier,avg_vcs
+full,0.5,0.3199,0.2623,0.4789
+evidence_only,0.5,0.3,0.25,0.5663
+verification_only,0.5,0.3,0.25,0.4838
+hallucination_only,0.5,0.3199,0.2623,0.4789
+hallucination_only_text,0.5,0.3193,0.262,0.1202
+baseline_standard,0.5,0.3,0.25,0.2939
