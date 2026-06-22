@@ -308,6 +308,7 @@ python evaluation/evaluate.py --split all --output results/eval_results.json
 - Run the Vite interactive dashboard dev server:
   ```bash
   cd frontend
+  npm install
   npm run dev
   ```
   Open http://localhost:5173/ in your browser.
