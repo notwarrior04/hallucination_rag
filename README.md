@@ -1,4 +1,4 @@
-# HaRAG: Hallucination-Aware Retrieval-Augmented Generation
+# HaRAG: A Calibrated Multi-Stage Verification Pipeline for Hallucination Detection in Retrieval-Augmented Generation
 
 > **Evidence Highlighting + Contradiction Verification + Verifiable Confidence Scoring**
 
