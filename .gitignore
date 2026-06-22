@@ -21,3 +21,4 @@ data/cache/
 env/
 venv/
 .vscode/
+*.zip

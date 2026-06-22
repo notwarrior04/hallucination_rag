@@ -1,0 +1,71 @@
+{
+  "squad": {
+    "baseline": {
+      "Recall@1": 0.89,
+      "Recall@5": 0.97,
+      "Recall@10": 0.98,
+      "Recall@20": 1.0,
+      "MRR": 0.9242,
+      "nDCG@10": 0.9369
+    },
+    "upgraded": {
+      "Recall@1": 0.9,
+      "Recall@5": 0.97,
+      "Recall@10": 0.97,
+      "Recall@20": 1.0,
+      "MRR": 0.9303,
+      "nDCG@10": 0.9389
+    },
+    "significance": {
+      "recall_5_p_value": 1.0,
+      "recall_10_p_value": 0.319748,
+      "mrr_p_value": 0.363104
+    }
+  },
+  "fever": {
+    "baseline": {
+      "Recall@1": 0.98,
+      "Recall@5": 1.0,
+      "Recall@10": 1.0,
+      "Recall@20": 1.0,
+      "MRR": 0.99,
+      "nDCG@10": 0.9926
+    },
+    "upgraded": {
+      "Recall@1": 0.98,
+      "Recall@5": 1.0,
+      "Recall@10": 1.0,
+      "Recall@20": 1.0,
+      "MRR": 0.99,
+      "nDCG@10": 0.9926
+    },
+    "significance": {
+      "recall_5_p_value": 1.0,
+      "recall_10_p_value": 1.0,
+      "mrr_p_value": 1.0
+    }
+  },
+  "ragtruth": {
+    "baseline": {
+      "Recall@1": 1.0,
+      "Recall@5": 1.0,
+      "Recall@10": 1.0,
+      "Recall@20": 1.0,
+      "MRR": 1.0,
+      "nDCG@10": 1.0
+    },
+    "upgraded": {
+      "Recall@1": 1.0,
+      "Recall@5": 1.0,
+      "Recall@10": 1.0,
+      "Recall@20": 1.0,
+      "MRR": 1.0,
+      "nDCG@10": 1.0
+    },
+    "significance": {
+      "recall_5_p_value": 1.0,
+      "recall_10_p_value": 1.0,
+      "mrr_p_value": 1.0
+    }
+  }
+}

@@ -554,9 +554,9 @@
   {
     "query": "Where is the airport located?",
     "gold_doc_id": "squad_7f2bb17c0a79e84dff568bb899f61842",
-    "rank": 31,
+    "rank": 30,
     "recall@5": 0,
-    "mrr": 0.0323,
+    "mrr": 0.0333,
     "success@100": 1
   },
   {
@@ -770,9 +770,9 @@
   {
     "query": "What side effect of these type of protests is unfortunate?",
     "gold_doc_id": "squad_2780a4ce689b2fb47666c90eeada25eb",
-    "rank": 20,
+    "rank": 21,
     "recall@5": 0,
-    "mrr": 0.05,
+    "mrr": 0.0476,
     "success@100": 1
   },
   {
@@ -1298,10 +1298,10 @@
   {
     "query": "What two women were defying the pharaoh in the story from the book of Exodus? ",
     "gold_doc_id": "squad_9098c028674bc825ab1576d9c80f4495",
-    "rank": 101,
+    "rank": 85,
     "recall@5": 0,
-    "mrr": 0.0099,
-    "success@100": 0
+    "mrr": 0.0118,
+    "success@100": 1
   },
   {
     "query": "How many large public parks does Fresno have?",
@@ -1642,9 +1642,9 @@
   {
     "query": "What UN secretary went to Harvard?",
     "gold_doc_id": "squad_59c72ef37e50e6d2ccc6cfc8401ce915",
-    "rank": 28,
+    "rank": 29,
     "recall@5": 0,
-    "mrr": 0.0357,
+    "mrr": 0.0345,
     "success@100": 1
   },
   {
@@ -1714,9 +1714,9 @@
   {
     "query": "When was Geegen the emperor?",
     "gold_doc_id": "squad_3f743cebcf17dd3106f4665532c2ccd4",
-    "rank": 2,
+    "rank": 4,
     "recall@5": 1,
-    "mrr": 0.5,
+    "mrr": 0.25,
     "success@100": 1
   },
   {
@@ -1986,9 +1986,9 @@
   {
     "query": "Who is one prominent advocate of this theory?",
     "gold_doc_id": "squad_cdc8921c56d4911a4a067ab56aabcc27",
-    "rank": 49,
+    "rank": 53,
     "recall@5": 0,
-    "mrr": 0.0204,
+    "mrr": 0.0189,
     "success@100": 1
   },
   {
@@ -2522,9 +2522,9 @@
   {
     "query": "What present-day area was this settlement near?",
     "gold_doc_id": "squad_076dbed33bbac683cd124cd201305ee9",
-    "rank": 4,
+    "rank": 5,
     "recall@5": 1,
-    "mrr": 0.25,
+    "mrr": 0.2,
     "success@100": 1
   },
   {
@@ -3178,9 +3178,9 @@
   {
     "query": "What was the English title of Polo's book?",
     "gold_doc_id": "squad_6a6b50c5f109ff6945c49130538345c5",
-    "rank": 2,
+    "rank": 3,
     "recall@5": 1,
-    "mrr": 0.5,
+    "mrr": 0.3333,
     "success@100": 1
   },
   {
@@ -3258,9 +3258,9 @@
   {
     "query": "What was the Italian title of Polo's book?",
     "gold_doc_id": "squad_6a6b50c5f109ff6945c49130538345c5",
-    "rank": 4,
+    "rank": 3,
     "recall@5": 1,
-    "mrr": 0.25,
+    "mrr": 0.3333,
     "success@100": 1
   },
   {
@@ -3346,9 +3346,9 @@
   {
     "query": "There were many Chinese with what unexpected status?",
     "gold_doc_id": "squad_7d8260deae6a3509c3d5813990abc48e",
-    "rank": 18,
+    "rank": 19,
     "recall@5": 0,
-    "mrr": 0.0556,
+    "mrr": 0.0526,
     "success@100": 1
   },
   {

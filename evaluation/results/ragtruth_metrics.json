@@ -1,0 +1,19 @@
+{
+  "dataset": "RAGTruth",
+  "n_samples": 100,
+  "n_test": 80,
+  "optimal_threshold": 0.72,
+  "accuracy": 0.76,
+  "precision": 0.6,
+  "recall": 0.3333,
+  "f1": 0.4286,
+  "auroc": 0.658,
+  "test_accuracy": 0.7375,
+  "test_f1": 0.4,
+  "test_auroc": 0.6591,
+  "ece": 0.2888,
+  "brier": 0.266,
+  "mean_recall@5": 1.0,
+  "mean_recall@10": 1.0,
+  "mean_mrr": 1.0
+}

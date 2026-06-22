@@ -151,7 +151,7 @@ class HaRAGEvaluator:
                 f1_scores.append(0.0)
 
             halu_pred.append(1 if result.hallucination_risk == "HIGH" else 0)
-            halu_conf.append(1 - result.confidence_score)
+            halu_conf.append(1 - result.calibrated_vcs)
 
         metrics = {
             "dataset": "squad_v2",
@@ -208,7 +208,7 @@ class HaRAGEvaluator:
                 pred   = 1 if result.hallucination_risk == "HIGH" else 0
                 true_labels.append(is_halu)
                 pred_labels.append(pred)
-                scores.append(1 - result.confidence_score)
+                scores.append(1 - result.calibrated_vcs)
 
         metrics = {
             "dataset": f"halueval_{subset}",
@@ -229,7 +229,7 @@ class HaRAGEvaluator:
             result = self.pipeline.run(s["question"])
             em     = exact_match(result.answer, [s["best_answer"]])
             em_scores.append(em)
-            confidences.append(result.confidence_score)
+            confidences.append(result.calibrated_vcs)
 
         ece = expected_calibration_error(confidences, em_scores)
         metrics = {
@@ -259,7 +259,7 @@ class HaRAGEvaluator:
             pred   = 1 if result.hallucination_risk in ("HIGH", "MEDIUM") else 0
             true_labels.append(gt_bin)
             pred_labels.append(pred)
-            scores.append(1 - result.confidence_score)
+            scores.append(1 - result.calibrated_vcs)
 
         metrics = {
             "dataset": "halubench",

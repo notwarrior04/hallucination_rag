@@ -1,1 +1,106 @@
-{}
+{
+  "Evidence-only": {
+    "comparison_model_accuracy": 0.635,
+    "comparison_model_f1": 0.3241,
+    "accuracy_difference": -0.0425,
+    "f1_difference": 0.1158,
+    "paired_t_test": {
+      "t_statistic": -1.97,
+      "p_value": 0.04952405442632327
+    },
+    "wilcoxon_signed_rank": {
+      "statistic": 1102.0,
+      "p_value": 0.04964722965745621
+    },
+    "mcnemar_test": {
+      "statistic": 3.4133,
+      "p_value": 0.06467168750236404
+    },
+    "bootstrap_95_accuracy_ci": [
+      -0.0825,
+      -0.0025
+    ],
+    "bootstrap_95_f1_ci": [
+      0.0522,
+      0.1845
+    ]
+  },
+  "Verification-only": {
+    "comparison_model_accuracy": 0.635,
+    "comparison_model_f1": 0.3241,
+    "accuracy_difference": -0.0425,
+    "f1_difference": 0.1158,
+    "paired_t_test": {
+      "t_statistic": -1.97,
+      "p_value": 0.04952405442632327
+    },
+    "wilcoxon_signed_rank": {
+      "statistic": 1102.0,
+      "p_value": 0.04964722965745621
+    },
+    "mcnemar_test": {
+      "statistic": 3.4133,
+      "p_value": 0.06467168750236404
+    },
+    "bootstrap_95_accuracy_ci": [
+      -0.0825,
+      -0.0025
+    ],
+    "bootstrap_95_f1_ci": [
+      0.0522,
+      0.1845
+    ]
+  },
+  "Standard RAG": {
+    "comparison_model_accuracy": 0.605,
+    "comparison_model_f1": 0.4234,
+    "accuracy_difference": -0.0125,
+    "f1_difference": 0.0165,
+    "paired_t_test": {
+      "t_statistic": -0.9622,
+      "p_value": 0.3365513935752069
+    },
+    "wilcoxon_signed_rank": {
+      "statistic": 154.0,
+      "p_value": 0.3359238131517357
+    },
+    "mcnemar_test": {
+      "statistic": 0.5926,
+      "p_value": 0.4414183267820536
+    },
+    "bootstrap_95_accuracy_ci": [
+      -0.0375,
+      0.0125
+    ],
+    "bootstrap_95_f1_ci": [
+      -0.0188,
+      0.0553
+    ]
+  },
+  "Text-only Detector": {
+    "comparison_model_accuracy": 0.6425,
+    "comparison_model_f1": 0.3349,
+    "accuracy_difference": -0.05,
+    "f1_difference": 0.105,
+    "paired_t_test": {
+      "t_statistic": -2.3065,
+      "p_value": 0.021593635370784767
+    },
+    "wilcoxon_signed_rank": {
+      "statistic": 1078.0,
+      "p_value": 0.021781462791119498
+    },
+    "mcnemar_test": {
+      "statistic": 4.75,
+      "p_value": 0.029298294404550566
+    },
+    "bootstrap_95_accuracy_ci": [
+      -0.09,
+      -0.01
+    ],
+    "bootstrap_95_f1_ci": [
+      0.0394,
+      0.1755
+    ]
+  }
+}

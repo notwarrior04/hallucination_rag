@@ -29,6 +29,7 @@ def main():
     # Corpus Selection
     parser.add_argument("--corpus", type=str, default="squad", choices=["squad", "fever", "combined"], help="Corpus to index")
     parser.add_argument("--max_docs", type=int, default=100, help="Max documents to index for demo")
+    parser.add_argument("--pre_generated_answer", type=str, default=None, help="Force a pre-generated answer for verification testing")
     
     args = parser.parse_args()
 
@@ -55,7 +56,7 @@ def main():
 
     # 3. Run Inference
     logger.info(f"Running inference for: {args.query}")
-    result = rag.run(args.query, mode=args.mode)
+    result = rag.run(args.query, mode=args.mode, pre_generated_answer=args.pre_generated_answer)
 
     # 4. Save and Print Results
     output_path = Path(args.output_dir)

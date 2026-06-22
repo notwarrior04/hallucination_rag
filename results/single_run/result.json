@@ -1,120 +1,112 @@
 {
-  "query": "Who discovered penicillin?",
-  "answer": "I don't know",
+  "query": "Who invented the theory of relativity?",
+  "answer": "Albert Einstein",
   "retrieved_docs": [
     {
-      "doc_id": "squad_7de2c4516dcbd162490f0e3c8222604d",
-      "text": "Florey and Chain succeeded in purifying the first penicillin, penicillin G, in 1942, but it did not become widely available outside the Allied military before 1945. Later, Norman Heatley developed the back extraction technique for efficiently purifying penicillin in bulk. The chemical structure of penicillin was determined by Dorothy Crowfoot Hodgkin in 1945. Purified penicillin displayed potent antibacterial activity against a wide range of bacteria and had low toxicity in humans. Furthermore, its activity was not inhibited by biological constituents such as pus, unlike the synthetic sulfonamides. The discovery of such a powerful antibiotic was unprecedented, and the development of penicillin led to renewed interest in the search for antibiotic compounds with similar efficacy and safety. For their successful development of penicillin, which Fleming had accidentally discovered but could not develop himself, as a therapeutic drug, Ernst Chain and Howard Florey shared the 1945 Nobel Prize in Medicine with Fleming. Florey credited Dubos with pioneering the approach of deliberately and systematically searching for antibacterial compounds, which had led to the discovery of gramicidin and had revived Florey's research in penicillin.",
-      "score": 7.478196144104004,
+      "doc_id": "squad_14ae24b544fac0014ddbd02caa8841de__chunk_0",
+      "text": "Modern history - Albert Einstein is known for his theories of special relativity and general relativity. He also made important contributions to statistical mechanics, especially his mathematical treatment of Brownian motion, his resolution of the paradox of specific heats, and his connection of fluctuations and dissipation. Despite his reservations about its interpretation, Einstein also made contributions to quantum mechanics and, indirectly, quantum field theory, primarily through his theoretical studies of the photon.",
+      "score": 6.887619495391846,
       "source": "squad_v2",
-      "base_doc_id": "squad_7de2c4516dcbd162490f0e3c8222604d",
+      "base_doc_id": "squad_14ae24b544fac0014ddbd02caa8841de",
       "highlighted_spans": []
     },
     {
-      "doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
-      "text": "In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. brevis. It was one of the first commercially manufactured antibiotics universally and was very effective in treating wounds and ulcers during World War II. Gramicidin, however, could not be used systemically because of toxicity. Tyrocidine also proved too toxic for systemic usage. Research results obtained during that period were not shared between the Axis and the Allied powers during the war.",
-      "score": 1.023423433303833,
+      "doc_id": "squad_52ca4f0a64ec762ae0666e12835af254__chunk_0",
+      "text": "Richard Feynman - After the success of quantum electrodynamics, Feynman turned to quantum gravity. By analogy with the photon, which has spin 1, he investigated the consequences of a free massless spin 2 field, and derived the Einstein field equation of general relativity, but little more. The computational device that Feynman discovered then for gravity, \"ghosts\", which are \"particles\" in the interior of his diagrams that have the \"wrong\" connection between spin and statistics, have proved invaluable in explaining the quantum particle behavior of the Yang\u2013Mills theories, for example, QCD and the electro-weak theory.",
+      "score": 4.145637512207031,
       "source": "squad_v2",
-      "base_doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
+      "base_doc_id": "squad_52ca4f0a64ec762ae0666e12835af254",
       "highlighted_spans": []
     },
     {
-      "doc_id": "squad_dbe39459228443214bd8a0173c497c3b",
-      "text": "With advances in medicinal chemistry, most modern antibacterials are semisynthetic modifications of various natural compounds. These include, for example, the beta-lactam antibiotics, which include the penicillins (produced by fungi in the genus Penicillium), the cephalosporins, and the carbapenems. Compounds that are still isolated from living organisms are the aminoglycosides, whereas other antibacterials\u2014for example, the sulfonamides, the quinolones, and the oxazolidinones\u2014are produced solely by chemical synthesis. Many antibacterial compounds are relatively small molecules with a molecular weight of less than 2000 atomic mass units.[citation needed]",
-      "score": -1.756178855895996,
+      "doc_id": "squad_3548b4e2f4b6fd574f176a93b6b08bfd__chunk_1",
+      "text": "History of science - which refuted phlogiston theory. The theory that all matter is made of atoms, which are the smallest constituents of matter that cannot be broken down without losing the basic chemical and physical properties of that matter, was provided by John Dalton in 1803, although the question took a hundred years to settle as proven. Dalton also formulated the law of mass relationships. In 1869, Dmitri Mendeleev composed his periodic table of elements on the basis of Dalton's discoveries.",
+      "score": -1.1334526538848877,
       "source": "squad_v2",
-      "base_doc_id": "squad_dbe39459228443214bd8a0173c497c3b",
+      "base_doc_id": "squad_3548b4e2f4b6fd574f176a93b6b08bfd",
       "highlighted_spans": []
     },
     {
-      "doc_id": "squad_58032a5acb42e4c5e2b811dd5d620330",
-      "text": "Ehrlich\u2019s approach of systematically varying the chemical structure of synthetic compounds and measuring the effects of these changes on biological activity was pursued broadly by industrial scientists, including Bayer scientists Josef Klarer, Fritz Mietzsch, and Gerhard Domagk. This work, also based in the testing of compounds available from the German dye industry, led to the development of Prontosil, the first representative of the sulfonamide class of antibiotics. Compared to arsphenamine, the sulfonamides had a broader spectrum of activity and were far less toxic, rendering them useful for infections caused by pathogens such as streptococci. In 1939, Domagk received the Nobel Prize in Medicine for this discovery. Nonetheless, the dramatic decrease in deaths from infectious diseases that occurred prior to World War II was primarily the result of improved public health measures such as clean water and less crowded housing, and the impact of anti-infective drugs and vaccines was significant mainly after World War II.",
-      "score": -3.555741310119629,
+      "doc_id": "squad_23e71f0ff5939893bc9dd3f391c87ecb__chunk_2",
+      "text": "Richard Feynman - Theory of Light and Matter, Statistical Mechanics, Lectures on Gravitation, and the Feynman Lectures on Computation.",
+      "score": -1.1739611625671387,
       "source": "squad_v2",
-      "base_doc_id": "squad_58032a5acb42e4c5e2b811dd5d620330",
+      "base_doc_id": "squad_23e71f0ff5939893bc9dd3f391c87ecb",
       "highlighted_spans": []
     },
     {
-      "doc_id": "squad_7a2ea268b7c5f898e620b0abaf726363",
-      "text": "The bacillus causing tuberculosis, M. tuberculosis, was identified and described on 24 March 1882 by Robert Koch. He received the Nobel Prize in physiology or medicine in 1905 for this discovery. Koch did not believe the bovine (cattle) and human tuberculosis diseases were similar, which delayed the recognition of infected milk as a source of infection. Later, the risk of transmission from this source was dramatically reduced by the invention of the pasteurization process. Koch announced a glycerine extract of the tubercle bacilli as a \"remedy\" for tuberculosis in 1890, calling it \"tuberculin\". While it was not effective, it was later successfully adapted as a screening test for the presence of pre-symptomatic tuberculosis. The World Tuberculosis Day was established on 24 March for this reason.",
-      "score": -4.403292655944824,
+      "doc_id": "squad_94a4a4a41eac864d8425994a1c172a73__chunk_0",
+      "text": "Greece - Notable Greek scientists of modern times include Dimitrios Galanos, Georgios Papanikolaou (inventor of the Pap test), Nicholas Negroponte, Constantin Carath\u00e9odory (known for the Carath\u00e9odory theorems and Carath\u00e9odory conjecture), Manolis Andronikos (discovered the tomb of Philip II of Macedon in Vergina), Michael Dertouzos, John Argyris, Panagiotis Kondylis, John Iliopoulos (2007 Dirac Prize for his contributions on the physics of the charm quark, a major contribution to the birth of the Standard Model, the modern theory of Elementary Particles), Joseph Sifakis (2007 Turing Award, the \"Nobel Prize\" of Computer Science), Christos Papadimitriou (2002 Knuth Prize, 2012 G\u00f6del Prize), Mihalis Yannakakis (2005 Knuth Prize), Dimitri Nanopoulos and Helene Ahrweiler.",
+      "score": -1.2721517086029053,
       "source": "squad_v2",
-      "base_doc_id": "squad_7a2ea268b7c5f898e620b0abaf726363",
+      "base_doc_id": "squad_94a4a4a41eac864d8425994a1c172a73",
       "highlighted_spans": []
     }
   ],
   "retrieved_doc_ids": [
-    "squad_7de2c4516dcbd162490f0e3c8222604d",
-    "squad_9d235fdf7d5ec60985861806d0c8f467",
-    "squad_dbe39459228443214bd8a0173c497c3b",
-    "squad_58032a5acb42e4c5e2b811dd5d620330",
-    "squad_7a2ea268b7c5f898e620b0abaf726363"
+    "squad_14ae24b544fac0014ddbd02caa8841de__chunk_0",
+    "squad_52ca4f0a64ec762ae0666e12835af254__chunk_0",
+    "squad_3548b4e2f4b6fd574f176a93b6b08bfd__chunk_1",
+    "squad_23e71f0ff5939893bc9dd3f391c87ecb__chunk_2",
+    "squad_94a4a4a41eac864d8425994a1c172a73__chunk_0"
   ],
   "retrieval_scores": [
-    7.478196144104004,
-    1.023423433303833,
-    -1.756178855895996,
-    -3.555741310119629,
-    -4.403292655944824
+    6.887619495391846,
+    4.145637512207031,
+    -1.1334526538848877,
+    -1.1739611625671387,
+    -1.2721517086029053
   ],
   "evidence_spans": [
     {
-      "text": "For their successful development of penicillin, which Fleming had accidentally discovered but could not develop himself, as a therapeutic drug, Ernst Chain and Howard Florey shared the 1945 Nobel Prize in Medicine with Fleming. Florey credited Dubos with pioneering the approach of deliberately and systematically searching for antibacterial compounds, which had led to the discovery of gramicidin and had revived Florey's research in penicillin.",
-      "sentence_start": 6,
-      "sentence_end": 7,
-      "score": 8.321927070617676,
-      "doc_id": "squad_7de2c4516dcbd162490f0e3c8222604d",
-      "source": "squad_v2"
-    },
-    {
-      "text": "In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B.",
+      "text": "Modern history - Albert Einstein is known for his theories of special relativity and general relativity.",
       "sentence_start": 0,
       "sentence_end": 0,
-      "score": 5.5689799070358275,
-      "doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
+      "score": 9.058131456375122,
+      "doc_id": "squad_14ae24b544fac0014ddbd02caa8841de__chunk_0",
       "source": "squad_v2"
     },
     {
-      "text": "In 1939, coinciding with the start of World War II, Rene Dubos reported the discovery of the first naturally derived antibiotic, tyrothricin, a compound of 20% gramicidin and 80% tyrocidine, from B. It was one of the first commercially manufactured antibiotics universally and was very effective in treating wounds and ulcers during World War II.",
+      "text": "Modern history - Albert Einstein is known for his theories of special relativity and general relativity. He also made important contributions to statistical mechanics, especially his mathematical treatment of Brownian motion, his resolution of the paradox of specific heats, and his connection of fluctuations and dissipation.",
       "sentence_start": 0,
       "sentence_end": 1,
-      "score": 5.314091229438781,
-      "doc_id": "squad_9d235fdf7d5ec60985861806d0c8f467",
+      "score": 8.475642824172972,
+      "doc_id": "squad_14ae24b544fac0014ddbd02caa8841de__chunk_0",
       "source": "squad_v2"
     },
     {
-      "text": "These include, for example, the beta-lactam antibiotics, which include the penicillins (produced by fungi in the genus Penicillium), the cephalosporins, and the carbapenems.",
-      "sentence_start": 1,
+      "text": "Richard Feynman - After the success of quantum electrodynamics, Feynman turned to quantum gravity. By analogy with the photon, which has spin 1, he investigated the consequences of a free massless spin 2 field, and derived the Einstein field equation of general relativity, but little more.",
+      "sentence_start": 0,
       "sentence_end": 1,
-      "score": 2.626188802719116,
-      "doc_id": "squad_dbe39459228443214bd8a0173c497c3b",
+      "score": 6.73401985168457,
+      "doc_id": "squad_52ca4f0a64ec762ae0666e12835af254__chunk_0",
       "source": "squad_v2"
     },
     {
-      "text": "In 1939, Domagk received the Nobel Prize in Medicine for this discovery.",
-      "sentence_start": 3,
-      "sentence_end": 3,
-      "score": 2.18378791809082,
-      "doc_id": "squad_58032a5acb42e4c5e2b811dd5d620330",
+      "text": "Richard Feynman - After the success of quantum electrodynamics, Feynman turned to quantum gravity. By analogy with the photon, which has spin 1, he investigated the consequences of a free massless spin 2 field, and derived the Einstein field equation of general relativity, but little more. The computational device that Feynman discovered then for gravity, \"ghosts\", which are \"particles\" in the interior of his diagrams that have the \"wrong\" connection between spin and statistics, have proved invaluable in explaining the quantum particle behavior of the Yang\u2013Mills theories, for example, QCD and the electro-weak theory.",
+      "sentence_start": 0,
+      "sentence_end": 2,
+      "score": 5.08670711517334,
+      "doc_id": "squad_52ca4f0a64ec762ae0666e12835af254__chunk_0",
       "source": "squad_v2"
     }
   ],
-  "contradiction_score": 0.0,
-  "hallucination_probability": 0.0039,
+  "contradiction_score": 0.0401,
+  "hallucination_probability": 0.2629,
   "hallucination_label": "FACTUAL",
-  "verification_score": 0.0,
-  "vcs_score": 0.6763,
-  "calibrated_vcs": 0.6069,
-  "hallucination_risk": "MEDIUM",
-  "verification_label": "NEI",
+  "verification_score": 0.8413,
+  "vcs_score": 0.8078,
+  "calibrated_vcs": 0.8194,
+  "hallucination_risk": "LOW",
+  "verification_label": "SUPPORTED",
   "confidence_explanation": {
-    "retrieval_quality": 0.7805,
-    "evidence_support": 0.9285,
-    "verification_score": 0.0,
-    "hallucination_probability": 0.0039,
-    "vcs": 0.6763,
-    "calibrated_vcs": 0.6069,
-    "reason": "Moderate confidence: Some evidence coverage but potential gaps or minor contradictions.",
+    "retrieval_quality": 0.7333,
+    "evidence_support": 0.9195,
+    "verification_score": 0.8413,
+    "hallucination_probability": 0.2629,
+    "vcs": 0.8078,
+    "calibrated_vcs": 0.8194,
+    "reason": "High confidence: Strong retrieval and evidence support with low contradiction risk.",
     "hand_crafted_weights": {
       "retrieval": 0.25,
       "evidence": 0.25,
@@ -125,7 +117,7 @@
   "model_versions": {
     "evidence": "./checkpoints/evidence_highlighter",
     "verifier": "./checkpoints/contradiction_verifier",
-    "hallucination": "checkpoints\\confidence_scorer"
+    "hallucination": "checkpoints\\hallucination_detector_full"
   },
   "dataset_name": "custom",
   "recall_at_k": null,
@@ -133,15 +125,18 @@
   "hit_rate": null,
   "answer_rank_score": null,
   "component_scores": {
-    "retrieval": 0.7805427312850952,
-    "evidence": 0.9284659676643463,
-    "verification": 0.0,
-    "hallucination": 0.9961006627087773
+    "retrieval": 0.7333289384841919,
+    "evidence": 0.919544016688077,
+    "verification": 0.8412536731362343,
+    "hallucination": 0.737117000781943,
+    "answer_context_sim": 0.8041844367980957,
+    "answer_evidence_sim": 0.7976317405700684
   },
   "retrieval_metrics": {
-    "retrieval_quality": -0.2427,
+    "retrieval_quality": 1.4907,
     "best_rank": -1,
-    "top_doc_score": 7.4782,
-    "mean_top5_score": -0.2427
-  }
+    "top_doc_score": 6.8876,
+    "mean_top5_score": 1.4907
+  },
+  "composite_halluc_score": 0.1814
 }

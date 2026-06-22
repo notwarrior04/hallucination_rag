@@ -1,26 +1,26 @@
 {
   "truthfulqa": {
-    "accuracy": 0.035,
+    "accuracy": 0.66,
     "f1": 0.0,
     "precision": 0.0,
     "recall": 0.0,
-    "ece": 0.9528,
-    "brier_score": 0.9417
+    "ece": 0.4938,
+    "brier_score": 0.2599
   },
   "hover": {
-    "accuracy": 1.0,
+    "accuracy": 0.675,
     "f1": 0.0,
     "precision": 0.0,
     "recall": 0.0,
-    "ece": 0.0036,
-    "brier_score": 0.0
+    "ece": 0.4642,
+    "brier_score": 0.2402
   },
   "halubench": {
-    "accuracy": 0.095,
-    "f1": 0.1735,
+    "accuracy": 0.23,
+    "f1": 0.374,
     "precision": 1.0,
-    "recall": 0.095,
-    "ece": 0.897,
-    "brier_score": 0.8805
+    "recall": 0.23,
+    "ece": 0.5703,
+    "brier_score": 0.3397
   }
 }

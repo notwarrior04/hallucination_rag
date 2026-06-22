@@ -43,6 +43,8 @@ class TemperatureScaler:
 
 def compute_ece(probs: np.ndarray, labels: np.ndarray, n_bins: int = 10) -> float:
     """Computes Expected Calibration Error (ECE)."""
+    probs = np.array(probs)
+    labels = np.array(labels)
     bins = np.linspace(0.0, 1.0, n_bins + 1)
     ece = 0.0
     n = len(probs)
@@ -67,4 +69,7 @@ def compute_ece(probs: np.ndarray, labels: np.ndarray, n_bins: int = 10) -> floa
 
 def compute_brier_score(probs: np.ndarray, labels: np.ndarray) -> float:
     """Computes Brier Score."""
+    probs = np.array(probs)
+    labels = np.array(labels)
     return float(np.mean((probs - labels) ** 2))
+

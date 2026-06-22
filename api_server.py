@@ -54,8 +54,8 @@ def get_pipeline():
         _pipeline = HallucinationAwareRAG()
 
         loader = DatasetLoader()
-        corpus = loader.load_squad_corpus(max_docs=3000)
-        corpus += loader.load_fever_corpus(max_docs=1000)
+        corpus = loader.load_squad_corpus(max_docs=5000)
+        corpus += loader.load_fever_corpus(max_docs=5000)
         _pipeline.retriever.index(corpus)
         _corpus_loaded = True
         logger.info("Pipeline ready.")
@@ -91,6 +91,7 @@ class RAGResponse(BaseModel):
     hallucination_risk: str      # LOW / MEDIUM / HIGH
     verification_label: str      # SUPPORTED / REFUTED / NEI
     component_scores: dict
+    confidence_explanation: dict
     latency_ms: float
 
 
@@ -139,10 +140,11 @@ def query_endpoint(req: QueryRequest):
             for e in result.evidence_spans
         ],
         contradiction_score=result.contradiction_score,
-        confidence_score=result.confidence_score,
+        confidence_score=result.calibrated_vcs,
         hallucination_risk=result.hallucination_risk,
         verification_label=result.verification_label,
         component_scores=result.component_scores,
+        confidence_explanation=result.confidence_explanation,
         latency_ms=round(latency, 2),
     )
 
@@ -151,14 +153,14 @@ def query_endpoint(req: QueryRequest):
 def sample_queries():
     return {
         "queries": [
-            "Who invented the telephone?",
-            "What is the capital of Australia?",
-            "When did World War II end?",
-            "Who wrote the theory of relativity?",
-            "What is quantum entanglement?",
-            "Did Napoleon win the Battle of Waterloo?",
-            "What is the boiling point of water on Mount Everest?",
-            "Who was the first woman to win a Nobel Prize?",
+            "Who invented the theory of relativity?",
+            "What is the foundation of the U.S. federal government?",
+            "What percentage of Manhattan residents own an automobile?",
+            "How many people visit the Alps every year?",
+            "What two Disney parks are barred from featuring Marvel characters?",
+            "Who issued the first official simplified Chinese characters in 1956?",
+            "Do most Manhattan residents own an automobile?",
+            "What is the capital of India?",
         ]
     }
 
@@ -185,4 +187,4 @@ def get_metrics():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("api_server:app", host="0.0.0.0", port=8000, reload=True)
+    uvicorn.run("api_server:app", host="0.0.0.0", port=8000, reload=False)

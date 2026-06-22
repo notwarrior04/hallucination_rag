@@ -1,0 +1,54 @@
+{
+  "halueval": {
+    "0-50 tokens": {
+      "count": 8466,
+      "auroc": 0.7655,
+      "accuracy": 0.6601,
+      "f1": 0.7288
+    },
+    "50-100 tokens": {
+      "count": 1405,
+      "auroc": 0.5899,
+      "accuracy": 0.694,
+      "f1": 0.8063
+    },
+    "100-200 tokens": {
+      "count": 130,
+      "auroc": 0.8171,
+      "accuracy": 0.8077,
+      "f1": 0.8908
+    },
+    "200+ tokens": {
+      "count": 1,
+      "auroc": 0.5,
+      "accuracy": 1.0,
+      "f1": 1.0
+    }
+  },
+  "ragtruth": {
+    "0-50 tokens": {
+      "count": 55,
+      "auroc": 0.5669,
+      "accuracy": 0.4182,
+      "f1": 0.3846
+    },
+    "50-100 tokens": {
+      "count": 408,
+      "auroc": 0.5622,
+      "accuracy": 0.4877,
+      "f1": 0.3724
+    },
+    "100-200 tokens": {
+      "count": 387,
+      "auroc": 0.5137,
+      "accuracy": 0.4806,
+      "f1": 0.3232
+    },
+    "200+ tokens": {
+      "count": 50,
+      "auroc": 0.519,
+      "accuracy": 0.58,
+      "f1": 0.3226
+    }
+  }
+}

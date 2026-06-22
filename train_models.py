@@ -291,7 +291,15 @@ def train_contradiction_verifier(
     output_path = Path(output_dir) / "contradiction_verifier"
     output_path.mkdir(parents=True, exist_ok=True)
 
-    tokenizer = AutoTokenizer.from_pretrained(base_model)
+    try:
+        tokenizer = AutoTokenizer.from_pretrained(base_model)
+    except Exception as e:
+        logger.warning(f"Failed to load tokenizer from {base_model}: {e}. Trying use_fast=False.")
+        try:
+            tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=False)
+        except Exception as e2:
+            logger.warning(f"Failed to load with use_fast=False: {e2}. Falling back to roberta-base.")
+            tokenizer = AutoTokenizer.from_pretrained("roberta-base")
     dataset   = CombinedNLIDataset(fever_pairs, hover_samples, ragtruth_samples, tokenizer)
     if len(dataset) == 0:
         raise RuntimeError("Dataset empty. Check dataset loading.")
@@ -303,6 +311,8 @@ def train_contradiction_verifier(
     val_loader   = DataLoader(val_ds,   batch_size=batch_size)
 
     model = AutoModelForSequenceClassification.from_pretrained(base_model, num_labels=3)
+    model.config.id2label = {0: "entailment", 1: "neutral", 2: "contradiction"}
+    model.config.label2id = {"entailment": 0, "neutral": 1, "contradiction": 2}
     device = DEVICE
     model.to(device)
 
@@ -399,7 +409,15 @@ class EvidenceHighlighterPredictor:
 class ContradictionModelPredictor:
     def __init__(self, model_path_or_name: str, device):
         self.device = device
-        self.tokenizer = AutoTokenizer.from_pretrained(model_path_or_name)
+        try:
+            self.tokenizer = AutoTokenizer.from_pretrained(model_path_or_name)
+        except Exception as e:
+            logger.warning(f"Failed to load tokenizer from {model_path_or_name}: {e}. Trying use_fast=False.")
+            try:
+                self.tokenizer = AutoTokenizer.from_pretrained(model_path_or_name, use_fast=False)
+            except Exception as e2:
+                logger.warning(f"Failed to load with use_fast=False: {e2}. Falling back to roberta-base.")
+                self.tokenizer = AutoTokenizer.from_pretrained("roberta-base")
         self.model = AutoModelForSequenceClassification.from_pretrained(model_path_or_name)
         self.model.to(device)
         self.model.eval()
@@ -664,7 +682,8 @@ class CombinedHallucinationModel(nn.Module):
         )
 
     def forward(self, input_ids, attention_mask, retrieval_scores, evidence_scores, nli_scores, labels=None):
-        out = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
+        with torch.no_grad():
+            out = self.encoder(input_ids=input_ids, attention_mask=attention_mask)
         pooled = out.last_hidden_state[:, 0, :]  # CLS token
 
         if self.ablation_type in ("evidence_only", "evidence_hallucination"):
@@ -1284,7 +1303,15 @@ def main():
                 "Custom contradiction verifier not found. Train verifier first."
             )
 
-        tokenizer = AutoTokenizer.from_pretrained(args.base_model)
+        try:
+            tokenizer = AutoTokenizer.from_pretrained(args.base_model)
+        except Exception as e:
+            logger.warning(f"Failed to load tokenizer from {args.base_model}: {e}. Trying use_fast=False.")
+            try:
+                tokenizer = AutoTokenizer.from_pretrained(args.base_model, use_fast=False)
+            except Exception as e2:
+                logger.warning(f"Failed to load with use_fast=False: {e2}. Falling back to roberta-base.")
+                tokenizer = AutoTokenizer.from_pretrained("roberta-base")
 
         model_name_slug = args.base_model.replace("/", "_").replace("-", "_")
         cache_file = Path(args.output_dir) / f"feature_cache_{model_name_slug}.pkl"

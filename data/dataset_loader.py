@@ -211,8 +211,8 @@ class DatasetLoader:
         rng.shuffle(rows)
 
         docs = []
-        for i, row in enumerate(rows):
-            if i >= max_docs:
+        for row in rows:
+            if len(docs) >= max_docs:
                 break
 
             # Flatten evidence list → single text block
@@ -232,12 +232,13 @@ class DatasetLoader:
                 if sent:
                     evidence_parts.append(sent)
 
-            ev_text = " ".join(evidence_parts)
-            full_text = (row["claim"] + " " + ev_text).strip() if ev_text else row["claim"]
+            ev_text = " ".join(evidence_parts).strip()
+            if not ev_text:
+                continue
 
             docs.append({
-                "doc_id": f"fever_{i}",
-                "text":   full_text,
+                "doc_id": f"fever_{len(docs)}",
+                "text":   ev_text,
                 "label":  row.get("label", "NOT ENOUGH INFO"),
                 "claim":  row["claim"],
                 "source": "fever",
@@ -324,16 +325,17 @@ class DatasetLoader:
             right = row.get("right_answer", row.get("right_response", row.get("right_summary", "")))
             halluc = row.get("hallucinated_answer", row.get("hallucinated_response", row.get("hallucinated_summary", "")))
             
-            # If they are not present, check for 'answer' and 'hallucination' (unpaired samples format)
-            if not right and not halluc and "answer" in row:
-                ans = row.get("answer", "")
-                is_halluc = row.get("hallucination", "")
-                if str(is_halluc).lower() in ("yes", "fail", "true", "1"):
-                    halluc = ans
-                    right = ""
-                else:
-                    right = ans
-                    halluc = ""
+            # If they are not present, check for unpaired samples format (supports answer, response, summary)
+            if not right and not halluc:
+                ans = row.get("answer", row.get("response", row.get("summary", "")))
+                if ans:
+                    is_halluc = row.get("hallucination", "")
+                    if str(is_halluc).lower() in ("yes", "fail", "true", "1"):
+                        halluc = ans
+                        right = ""
+                    else:
+                        right = ans
+                        halluc = ""
 
             samples.append({
                 "id":     f"halueval_{subset}_{i}",
