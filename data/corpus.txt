@@ -1,0 +1,207 @@
+Tesla was founded in 2003 by Martin Eberhard and Marc Tarpenning.
+
+Tesla is headquartered in Austin, Texas.
+
+Tesla manufactures electric vehicles and battery storage systems.
+
+Tesla's CEO is Elon Musk.
+
+Tesla's Gigafactory Nevada is located in Storey County, Nevada.
+
+Apple Inc. was founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne.
+
+Apple is headquartered in Cupertino, California.
+
+Apple's CEO is Tim Cook.
+
+The Eiffel Tower was completed in 1889.
+
+The Eiffel Tower is located in Paris, France.
+
+The capital of France is Paris.
+
+The capital of Germany is Berlin.
+
+The capital of Japan is Tokyo.
+
+The Taj Mahal is located in Agra, India.
+
+The Taj Mahal was commissioned in 1632 by Shah Jahan.
+
+The Great Wall of China was built over several centuries.
+
+Microsoft was founded in 1975 by Bill Gates and Paul Allen.
+
+Microsoft is headquartered in Redmond, Washington.
+
+Google was founded in 1998 by Larry Page and Sergey Brin.
+
+Google's parent company is Alphabet Inc.
+
+Amazon was founded by Jeff Bezos in 1994.
+
+Amazon is headquartered in Seattle, Washington.
+
+OpenAI was founded in 2015.
+
+OpenAI developed ChatGPT.
+
+India became independent in 1947.
+
+The Indian Constitution came into effect on 26 January 1950.
+
+The Moon is Earth's natural satellite.
+
+Mars is known as the Red Planet.
+
+Jupiter is the largest planet in the Solar System.
+
+Water boils at 100 degrees Celsius at standard atmospheric pressure.
+
+The speed of light is approximately 299,792 kilometers per second.
+
+The human body contains 206 bones.
+
+Python is a programming language created by Guido van Rossum.
+
+Python was first released in 1991.
+
+The C programming language was developed by Dennis Ritchie.
+
+Artificial Intelligence is a field of computer science.
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Deep Learning uses artificial neural networks.
+
+The FIFA World Cup is held every four years.
+
+The Olympic Games are held every four years.
+
+Mount Everest is the highest mountain above sea level.
+
+Mount Everest is located in the Himalayas.
+
+The Nile River is the longest river in Africa.
+
+The Amazon Rainforest is the largest tropical rainforest in the world.
+
+Python is a high-level programming language created by Guido van Rossum.
+
+Python was first released in 1991.
+
+The C programming language was developed by Dennis Ritchie at Bell Labs.
+
+Java was developed by James Gosling at Sun Microsystems.
+
+Java was first released in 1995.
+
+C++ was created by Bjarne Stroustrup.
+
+Operating Systems manage hardware resources and provide services to applications.
+
+Linux is an open-source operating system kernel created by Linus Torvalds in 1991.
+
+A process is a program in execution.
+
+A thread is the smallest unit of CPU execution.
+
+CPU scheduling determines which process gets CPU time.
+
+Round Robin is a preemptive CPU scheduling algorithm.
+
+Deadlock occurs when processes wait indefinitely for resources.
+
+A database is an organized collection of data.
+
+SQL stands for Structured Query Language.
+
+MySQL is a relational database management system.
+
+MongoDB is a NoSQL database.
+
+Normalization reduces redundancy in databases.
+
+Primary keys uniquely identify records in a table.
+
+Computer networks enable communication between devices.
+
+The TCP protocol provides reliable communication.
+
+UDP is a connectionless transport protocol.
+
+HTTP stands for HyperText Transfer Protocol.
+
+HTTPS uses TLS for secure communication.
+
+The OSI model has seven layers.
+
+The Application Layer is the top layer of the OSI model.
+
+Data Structures organize and store data efficiently.
+
+An array stores elements in contiguous memory locations.
+
+A linked list consists of nodes connected through pointers.
+
+A stack follows the Last In First Out principle.
+
+A queue follows the First In First Out principle.
+
+A binary search tree enables efficient searching and insertion.
+
+Hash tables provide average O(1) lookup complexity.
+
+Algorithms are step-by-step procedures for solving problems.
+
+Binary Search has O(log n) time complexity.
+
+Merge Sort has O(n log n) time complexity.
+
+Bubble Sort has O(n²) time complexity.
+
+Dijkstra's algorithm finds shortest paths in weighted graphs.
+
+RAG stands for Retrieval-Augmented Generation.
+
+NLI stands for Natural Language Inference.
+
+FEVER is a fact verification dataset used in Natural Language Processing.
+
+LLM stands for Large Language Model.
+
+AI stands for Artificial Intelligence.
+
+ML stands for Machine Learning.
+
+Machine Learning (ML) is a subset of Artificial Intelligence (AI).
+
+Deep Learning uses multi-layer neural networks.
+
+Retrieval-Augmented Generation (RAG) combines retrieval systems with large language models.
+
+Large Language Models (LLMs) generate text using transformer architectures.
+
+Transformers were introduced in the paper "Attention Is All You Need" in 2017.
+
+BERT was introduced by Google in 2018.
+
+ChatGPT is developed by OpenAI.
+
+Mistral is an open-weight large language model family.
+
+Vector databases store embeddings for similarity search.
+
+FAISS is a library for efficient vector similarity search.
+
+Sentence Transformers generate dense vector embeddings.
+
+Natural Language Inference (NLI) classifies relationships as entailment, contradiction, or neutral.
+
+The FEVER dataset is widely used for fact verification research.
+
+Hallucination in LLMs refers to generating unsupported or fabricated information.
+
+Explainable AI focuses on making model decisions interpretable.
+
+Trustworthy AI emphasizes reliability, transparency, and accountability.
